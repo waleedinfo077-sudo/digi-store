@@ -25,12 +25,19 @@ assets/
   js/success.js             Order confirmation and payment instructions
   images/logo.svg
   images/favicon.svg
+  images/store-workspace.webp
+  images/categories/          Locally stored category photography
+  images/products/            Locally stored shop product photography
 templates/<category-slug>/design-<1-3>/
   index.html                Self-contained, interactive demo
-  thumb.svg                 Local design-card art used by catalog cards
-  hero-art.svg              Local demo illustration used by the live preview
+  thumb.svg                 Photo-based design-card art used by catalog cards
+  hero-art.svg              Original demo illustration (kept for reference)
   images/                    Original source copies of the SVG artwork
 ```
+
+## Photography and image credits
+
+The home-page hero, category cards, all 60 demo designs, and shop product cards use local WebP copies of Unsplash photography. The pages do not hotlink those photos at runtime. Source photo IDs and download settings are maintained in [`tools/prepare_stock_photos.ps1`](./tools/prepare_stock_photos.ps1); photo use follows the [Unsplash License](https://unsplash.com/license).
 
 Expand the template branch above as follows; each listed design folder contains the three published files `index.html`, `thumb.svg`, and `hero-art.svg`, as well as local source copies under `images/`:
 
