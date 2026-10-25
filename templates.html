@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Browse live-preview-ready website designs for businesses, shops and creative ideas.">
+  <meta property="og:title" content="Explore Website Designs — Digi Store"><meta property="og:description" content="Browse, filter and preview ready-made website designs live."><meta property="og:type" content="website"><meta property="og:image" content="./assets/images/og-image.svg">
+  <title>Explore Website Designs — Digi Store</title>
+  <link rel="icon" href="./assets/images/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./assets/css/main.css"><link rel="stylesheet" href="./assets/css/animations.css">
+  <script defer src="./config.js"></script><script defer src="./assets/js/app.js"></script><script defer src="./assets/js/filter.js"></script>
+</head>
+<body><a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header"><a class="brand" href="./index.html"><img src="./assets/images/logo.svg" alt="" width="38" height="38"><span>Digi Store</span></a><button class="menu-toggle" aria-label="Open navigation" aria-expanded="false">☰</button><nav class="main-nav" aria-label="Main navigation"><a href="./templates.html" aria-current="page">Explore websites</a><a href="./index.html#how">How it works</a><button class="icon-button" data-theme-toggle aria-label="Toggle dark mode">◐</button><a class="button button-small" href="./templates.html">Browse designs <span>↗</span></a></nav></header>
+<main id="main" class="browse-page shell">
+  <div class="browse-intro"><span class="eyebrow">The Digi Store collection</span><h1>Find a website<br>that <span>fits your idea.</span></h1><p>Explore the real thing before you make it yours.</p></div>
+  <div class="browse-toolbar"><label class="search-field"><span aria-hidden="true">⌕</span><span class="sr-only">Search designs</span><input id="search-input" type="search" placeholder="Search designs, styles or features…"></label><label class="select-wrap"><span class="sr-only">Sort designs</span><select id="sort-select"><option value="featured">Featured</option><option value="newest">Newest</option><option value="price-asc">Price: low to high</option><option value="price-desc">Price: high to low</option><option value="name">Name: A to Z</option></select></label></div>
+  <div class="filter-layout">
+    <aside class="filter-panel" aria-label="Filters">
+      <div class="filter-title"><h2>Refine your search</h2><button id="clear-filters" class="clear-button" type="button">Clear all</button></div>
+      <label class="filter-label" for="category-filter">Category</label><select id="category-filter"><option value="">All categories</option></select>
+      <div id="subcategory-filter-wrap" hidden><label class="filter-label" for="subcategory-filter">Type</label><select id="subcategory-filter"><option value="">All types</option></select></div>
+      <label class="filter-label" for="style-filter">Style</label><select id="style-filter"><option value="">Any style</option><option value="light">Light</option><option value="dark">Dark</option><option value="colorful">Colorful</option></select>
+      <label class="filter-label" for="price-filter">Maximum price <strong id="price-value"></strong></label><input id="price-filter" type="range" min="3000" max="50000" step="1000" value="50000">
+      <p class="filter-hint">Every design includes a live preview.</p>
+    </aside>
+    <section class="results-area" aria-label="Website designs">
+      <div class="results-heading"><p id="result-count" aria-live="polite">Loading designs…</p><span>Prices in <b data-currency>PKR</b></span></div>
+      <div id="design-grid" class="template-grid"><div class="skeleton card-skeleton"></div><div class="skeleton card-skeleton"></div><div class="skeleton card-skeleton"></div></div>
+      <div id="empty-state" class="empty-state" hidden><span>✳</span><h2>No designs found</h2><p>Try another search or clear a filter to see more.</p><button class="button" id="empty-clear" type="button">Clear filters</button></div>
+    </section>
+  </div>
+</main>
+<footer class="site-footer shell"><div class="footer-top"><a class="brand" href="./index.html"><img src="./assets/images/logo.svg" alt="" width="38" height="38"><span>Digi Store</span></a><p>Good websites for what comes next.</p><a class="text-link" href="./index.html">Back to home ↗</a></div><div class="footer-bottom"><span>© <span data-year></span> Digi Store. Thoughtfully made.</span><span>Design your next chapter.</span><a href="./404.html">Help & support</a></div></footer>
+</body></html>

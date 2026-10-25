@@ -1,0 +1,4508 @@
+[
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact"
+                          ],
+        "id":  "gym-fitness-design-1",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Gyms",
+        "badge":  "Popular",
+        "style":  "light",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#5a49d6",
+                       "#eeeaff",
+                       "#f4b95f",
+                       "#fbfaff",
+                       "#242238"
+                   ],
+        "oldPrice":  10500,
+        "features":  [
+                         "Class schedule",
+                         "Trainer profiles",
+                         "Membership plans"
+                     ],
+        "price":  8500,
+        "palettes":  [
+                         [
+                             "#5a49d6",
+                             "#eeeaff",
+                             "#f4b95f",
+                             "#fbfaff",
+                             "#242238"
+                         ],
+                         [
+                             "#267b68",
+                             "#d9eee4",
+                             "#efa86e",
+                             "#f8fbf7",
+                             "#20332b"
+                         ],
+                         [
+                             "#c4566d",
+                             "#fae5e9",
+                             "#dba34a",
+                             "#fff9f7",
+                             "#38262c"
+                         ],
+                         [
+                             "#385b91",
+                             "#e2edf8",
+                             "#e8ae6a",
+                             "#f7faff",
+                             "#202c3b"
+                         ]
+                     ],
+        "tagline":  "A considered experience, made around you.",
+        "previewPath":  "templates/gym-fitness/design-1/index.html",
+        "categoryName":  "Gym \u0026 Fitness",
+        "thumbnail":  "templates/gym-fitness/design-1/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Pulse Theory",
+        "category":  "gym-fitness"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact"
+                          ],
+        "id":  "gym-fitness-design-2",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Personal trainers",
+        "badge":  "",
+        "style":  "dark",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#ed6846",
+                       "#241c26",
+                       "#f3c85c",
+                       "#171820",
+                       "#f7f2ee"
+                   ],
+        "oldPrice":  12500,
+        "features":  [
+                         "Class schedule",
+                         "Trainer profiles",
+                         "Membership plans"
+                     ],
+        "price":  10500,
+        "palettes":  [
+                         [
+                             "#ed6846",
+                             "#241c26",
+                             "#f3c85c",
+                             "#171820",
+                             "#f7f2ee"
+                         ],
+                         [
+                             "#d43d48",
+                             "#2d1a21",
+                             "#ffab72",
+                             "#1b1217",
+                             "#fff5ed"
+                         ],
+                         [
+                             "#b49a3d",
+                             "#23241d",
+                             "#b9d7b5",
+                             "#171a16",
+                             "#f5f4e9"
+                         ],
+                         [
+                             "#56a7a5",
+                             "#172a2c",
+                             "#f5c770",
+                             "#121c1e",
+                             "#eef8f5"
+                         ]
+                     ],
+        "tagline":  "Big ideas, a sharper presence, and a clear next step.",
+        "previewPath":  "templates/gym-fitness/design-2/index.html",
+        "categoryName":  "Gym \u0026 Fitness",
+        "thumbnail":  "templates/gym-fitness/design-2/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Northform",
+        "category":  "gym-fitness"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact"
+                          ],
+        "id":  "gym-fitness-design-3",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Yoga \u0026 pilates",
+        "badge":  "",
+        "style":  "colorful",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#268d78",
+                       "#eaf1d8",
+                       "#e78372",
+                       "#f5f7ef",
+                       "#26352e"
+                   ],
+        "oldPrice":  9500,
+        "features":  [
+                         "Class schedule",
+                         "Trainer profiles",
+                         "Membership plans"
+                     ],
+        "price":  7500,
+        "palettes":  [
+                         [
+                             "#268d78",
+                             "#eaf1d8",
+                             "#e78372",
+                             "#f5f7ef",
+                             "#26352e"
+                         ],
+                         [
+                             "#d579a4",
+                             "#fce7f0",
+                             "#8170dc",
+                             "#fff8fb",
+                             "#382b36"
+                         ],
+                         [
+                             "#c38b42",
+                             "#f6e6c9",
+                             "#658e73",
+                             "#fcf8f0",
+                             "#342d22"
+                         ],
+                         [
+                             "#5582cf",
+                             "#e3ecfa",
+                             "#f1aa6d",
+                             "#f8faff",
+                             "#273346"
+                         ]
+                     ],
+        "tagline":  "A little care in every detail, from the first click.",
+        "previewPath":  "templates/gym-fitness/design-3/index.html",
+        "categoryName":  "Gym \u0026 Fitness",
+        "thumbnail":  "templates/gym-fitness/design-3/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Good Move",
+        "category":  "gym-fitness"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact"
+                          ],
+        "id":  "doctors-clinics-design-1",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Family practice",
+        "badge":  "",
+        "style":  "light",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#5a49d6",
+                       "#eeeaff",
+                       "#f4b95f",
+                       "#fbfaff",
+                       "#242238"
+                   ],
+        "oldPrice":  10500,
+        "features":  [
+                         "Online booking",
+                         "Care team",
+                         "Patient resources"
+                     ],
+        "price":  8500,
+        "palettes":  [
+                         [
+                             "#5a49d6",
+                             "#eeeaff",
+                             "#f4b95f",
+                             "#fbfaff",
+                             "#242238"
+                         ],
+                         [
+                             "#267b68",
+                             "#d9eee4",
+                             "#efa86e",
+                             "#f8fbf7",
+                             "#20332b"
+                         ],
+                         [
+                             "#c4566d",
+                             "#fae5e9",
+                             "#dba34a",
+                             "#fff9f7",
+                             "#38262c"
+                         ],
+                         [
+                             "#385b91",
+                             "#e2edf8",
+                             "#e8ae6a",
+                             "#f7faff",
+                             "#202c3b"
+                         ]
+                     ],
+        "tagline":  "A considered experience, made around you.",
+        "previewPath":  "templates/doctors-clinics/design-1/index.html",
+        "categoryName":  "Doctors \u0026 Clinics",
+        "thumbnail":  "templates/doctors-clinics/design-1/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Kindred Care",
+        "category":  "doctors-clinics"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact"
+                          ],
+        "id":  "doctors-clinics-design-2",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Specialists",
+        "badge":  "",
+        "style":  "dark",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#ed6846",
+                       "#241c26",
+                       "#f3c85c",
+                       "#171820",
+                       "#f7f2ee"
+                   ],
+        "oldPrice":  12500,
+        "features":  [
+                         "Online booking",
+                         "Care team",
+                         "Patient resources"
+                     ],
+        "price":  10500,
+        "palettes":  [
+                         [
+                             "#ed6846",
+                             "#241c26",
+                             "#f3c85c",
+                             "#171820",
+                             "#f7f2ee"
+                         ],
+                         [
+                             "#d43d48",
+                             "#2d1a21",
+                             "#ffab72",
+                             "#1b1217",
+                             "#fff5ed"
+                         ],
+                         [
+                             "#b49a3d",
+                             "#23241d",
+                             "#b9d7b5",
+                             "#171a16",
+                             "#f5f4e9"
+                         ],
+                         [
+                             "#56a7a5",
+                             "#172a2c",
+                             "#f5c770",
+                             "#121c1e",
+                             "#eef8f5"
+                         ]
+                     ],
+        "tagline":  "Big ideas, a sharper presence, and a clear next step.",
+        "previewPath":  "templates/doctors-clinics/design-2/index.html",
+        "categoryName":  "Doctors \u0026 Clinics",
+        "thumbnail":  "templates/doctors-clinics/design-2/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Clarity Health",
+        "category":  "doctors-clinics"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact"
+                          ],
+        "id":  "doctors-clinics-design-3",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Wellness clinics",
+        "badge":  "",
+        "style":  "colorful",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#268d78",
+                       "#eaf1d8",
+                       "#e78372",
+                       "#f5f7ef",
+                       "#26352e"
+                   ],
+        "oldPrice":  9500,
+        "features":  [
+                         "Online booking",
+                         "Care team",
+                         "Patient resources"
+                     ],
+        "price":  7500,
+        "palettes":  [
+                         [
+                             "#268d78",
+                             "#eaf1d8",
+                             "#e78372",
+                             "#f5f7ef",
+                             "#26352e"
+                         ],
+                         [
+                             "#d579a4",
+                             "#fce7f0",
+                             "#8170dc",
+                             "#fff8fb",
+                             "#382b36"
+                         ],
+                         [
+                             "#c38b42",
+                             "#f6e6c9",
+                             "#658e73",
+                             "#fcf8f0",
+                             "#342d22"
+                         ],
+                         [
+                             "#5582cf",
+                             "#e3ecfa",
+                             "#f1aa6d",
+                             "#f8faff",
+                             "#273346"
+                         ]
+                     ],
+        "tagline":  "A little care in every detail, from the first click.",
+        "previewPath":  "templates/doctors-clinics/design-3/index.html",
+        "categoryName":  "Doctors \u0026 Clinics",
+        "thumbnail":  "templates/doctors-clinics/design-3/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Softwell Clinic",
+        "category":  "doctors-clinics"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact"
+                          ],
+        "id":  "hospitals-pharmacies-design-1",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Hospitals",
+        "badge":  "",
+        "style":  "light",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#5a49d6",
+                       "#eeeaff",
+                       "#f4b95f",
+                       "#fbfaff",
+                       "#242238"
+                   ],
+        "oldPrice":  10500,
+        "features":  [
+                         "Find a location",
+                         "Care services",
+                         "Patient support"
+                     ],
+        "price":  8500,
+        "palettes":  [
+                         [
+                             "#5a49d6",
+                             "#eeeaff",
+                             "#f4b95f",
+                             "#fbfaff",
+                             "#242238"
+                         ],
+                         [
+                             "#267b68",
+                             "#d9eee4",
+                             "#efa86e",
+                             "#f8fbf7",
+                             "#20332b"
+                         ],
+                         [
+                             "#c4566d",
+                             "#fae5e9",
+                             "#dba34a",
+                             "#fff9f7",
+                             "#38262c"
+                         ],
+                         [
+                             "#385b91",
+                             "#e2edf8",
+                             "#e8ae6a",
+                             "#f7faff",
+                             "#202c3b"
+                         ]
+                     ],
+        "tagline":  "A considered experience, made around you.",
+        "previewPath":  "templates/hospitals-pharmacies/design-1/index.html",
+        "categoryName":  "Hospitals \u0026 Pharmacies",
+        "thumbnail":  "templates/hospitals-pharmacies/design-1/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Harbor Health",
+        "category":  "hospitals-pharmacies"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact"
+                          ],
+        "id":  "hospitals-pharmacies-design-2",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Pharmacies",
+        "badge":  "",
+        "style":  "dark",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#ed6846",
+                       "#241c26",
+                       "#f3c85c",
+                       "#171820",
+                       "#f7f2ee"
+                   ],
+        "oldPrice":  12500,
+        "features":  [
+                         "Find a location",
+                         "Care services",
+                         "Patient support"
+                     ],
+        "price":  10500,
+        "palettes":  [
+                         [
+                             "#ed6846",
+                             "#241c26",
+                             "#f3c85c",
+                             "#171820",
+                             "#f7f2ee"
+                         ],
+                         [
+                             "#d43d48",
+                             "#2d1a21",
+                             "#ffab72",
+                             "#1b1217",
+                             "#fff5ed"
+                         ],
+                         [
+                             "#b49a3d",
+                             "#23241d",
+                             "#b9d7b5",
+                             "#171a16",
+                             "#f5f4e9"
+                         ],
+                         [
+                             "#56a7a5",
+                             "#172a2c",
+                             "#f5c770",
+                             "#121c1e",
+                             "#eef8f5"
+                         ]
+                     ],
+        "tagline":  "Big ideas, a sharper presence, and a clear next step.",
+        "previewPath":  "templates/hospitals-pharmacies/design-2/index.html",
+        "categoryName":  "Hospitals \u0026 Pharmacies",
+        "thumbnail":  "templates/hospitals-pharmacies/design-2/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Cedar Medical",
+        "category":  "hospitals-pharmacies"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact"
+                          ],
+        "id":  "hospitals-pharmacies-design-3",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Diagnostic centers",
+        "badge":  "",
+        "style":  "colorful",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#268d78",
+                       "#eaf1d8",
+                       "#e78372",
+                       "#f5f7ef",
+                       "#26352e"
+                   ],
+        "oldPrice":  9500,
+        "features":  [
+                         "Find a location",
+                         "Care services",
+                         "Patient support"
+                     ],
+        "price":  7500,
+        "palettes":  [
+                         [
+                             "#268d78",
+                             "#eaf1d8",
+                             "#e78372",
+                             "#f5f7ef",
+                             "#26352e"
+                         ],
+                         [
+                             "#d579a4",
+                             "#fce7f0",
+                             "#8170dc",
+                             "#fff8fb",
+                             "#382b36"
+                         ],
+                         [
+                             "#c38b42",
+                             "#f6e6c9",
+                             "#658e73",
+                             "#fcf8f0",
+                             "#342d22"
+                         ],
+                         [
+                             "#5582cf",
+                             "#e3ecfa",
+                             "#f1aa6d",
+                             "#f8faff",
+                             "#273346"
+                         ]
+                     ],
+        "tagline":  "A little care in every detail, from the first click.",
+        "previewPath":  "templates/hospitals-pharmacies/design-3/index.html",
+        "categoryName":  "Hospitals \u0026 Pharmacies",
+        "thumbnail":  "templates/hospitals-pharmacies/design-3/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Daywell Pharmacy",
+        "category":  "hospitals-pharmacies"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact"
+                          ],
+        "id":  "dentists-design-1",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Dental clinics",
+        "badge":  "",
+        "style":  "light",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#5a49d6",
+                       "#eeeaff",
+                       "#f4b95f",
+                       "#fbfaff",
+                       "#242238"
+                   ],
+        "oldPrice":  10500,
+        "features":  [
+                         "New patient care",
+                         "Meet the team",
+                         "Smile gallery"
+                     ],
+        "price":  8500,
+        "palettes":  [
+                         [
+                             "#5a49d6",
+                             "#eeeaff",
+                             "#f4b95f",
+                             "#fbfaff",
+                             "#242238"
+                         ],
+                         [
+                             "#267b68",
+                             "#d9eee4",
+                             "#efa86e",
+                             "#f8fbf7",
+                             "#20332b"
+                         ],
+                         [
+                             "#c4566d",
+                             "#fae5e9",
+                             "#dba34a",
+                             "#fff9f7",
+                             "#38262c"
+                         ],
+                         [
+                             "#385b91",
+                             "#e2edf8",
+                             "#e8ae6a",
+                             "#f7faff",
+                             "#202c3b"
+                         ]
+                     ],
+        "tagline":  "A considered experience, made around you.",
+        "previewPath":  "templates/dentists/design-1/index.html",
+        "categoryName":  "Dentists",
+        "thumbnail":  "templates/dentists/design-1/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Brightline Dental",
+        "category":  "dentists"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact"
+                          ],
+        "id":  "dentists-design-2",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Orthodontics",
+        "badge":  "",
+        "style":  "dark",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#ed6846",
+                       "#241c26",
+                       "#f3c85c",
+                       "#171820",
+                       "#f7f2ee"
+                   ],
+        "oldPrice":  12500,
+        "features":  [
+                         "New patient care",
+                         "Meet the team",
+                         "Smile gallery"
+                     ],
+        "price":  10500,
+        "palettes":  [
+                         [
+                             "#ed6846",
+                             "#241c26",
+                             "#f3c85c",
+                             "#171820",
+                             "#f7f2ee"
+                         ],
+                         [
+                             "#d43d48",
+                             "#2d1a21",
+                             "#ffab72",
+                             "#1b1217",
+                             "#fff5ed"
+                         ],
+                         [
+                             "#b49a3d",
+                             "#23241d",
+                             "#b9d7b5",
+                             "#171a16",
+                             "#f5f4e9"
+                         ],
+                         [
+                             "#56a7a5",
+                             "#172a2c",
+                             "#f5c770",
+                             "#121c1e",
+                             "#eef8f5"
+                         ]
+                     ],
+        "tagline":  "Big ideas, a sharper presence, and a clear next step.",
+        "previewPath":  "templates/dentists/design-2/index.html",
+        "categoryName":  "Dentists",
+        "thumbnail":  "templates/dentists/design-2/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Good Day Dental",
+        "category":  "dentists"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact"
+                          ],
+        "id":  "dentists-design-3",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Pediatric dentistry",
+        "badge":  "",
+        "style":  "colorful",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#268d78",
+                       "#eaf1d8",
+                       "#e78372",
+                       "#f5f7ef",
+                       "#26352e"
+                   ],
+        "oldPrice":  9500,
+        "features":  [
+                         "New patient care",
+                         "Meet the team",
+                         "Smile gallery"
+                     ],
+        "price":  7500,
+        "palettes":  [
+                         [
+                             "#268d78",
+                             "#eaf1d8",
+                             "#e78372",
+                             "#f5f7ef",
+                             "#26352e"
+                         ],
+                         [
+                             "#d579a4",
+                             "#fce7f0",
+                             "#8170dc",
+                             "#fff8fb",
+                             "#382b36"
+                         ],
+                         [
+                             "#c38b42",
+                             "#f6e6c9",
+                             "#658e73",
+                             "#fcf8f0",
+                             "#342d22"
+                         ],
+                         [
+                             "#5582cf",
+                             "#e3ecfa",
+                             "#f1aa6d",
+                             "#f8faff",
+                             "#273346"
+                         ]
+                     ],
+        "tagline":  "A little care in every detail, from the first click.",
+        "previewPath":  "templates/dentists/design-3/index.html",
+        "categoryName":  "Dentists",
+        "thumbnail":  "templates/dentists/design-3/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Little Pearl",
+        "category":  "dentists"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact"
+                          ],
+        "id":  "primary-schools-design-1",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Early years",
+        "badge":  "",
+        "style":  "light",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#5a49d6",
+                       "#eeeaff",
+                       "#f4b95f",
+                       "#fbfaff",
+                       "#242238"
+                   ],
+        "oldPrice":  10500,
+        "features":  [
+                         "Class calendar",
+                         "Family resources",
+                         "Meet our teachers"
+                     ],
+        "price":  8500,
+        "palettes":  [
+                         [
+                             "#5a49d6",
+                             "#eeeaff",
+                             "#f4b95f",
+                             "#fbfaff",
+                             "#242238"
+                         ],
+                         [
+                             "#267b68",
+                             "#d9eee4",
+                             "#efa86e",
+                             "#f8fbf7",
+                             "#20332b"
+                         ],
+                         [
+                             "#c4566d",
+                             "#fae5e9",
+                             "#dba34a",
+                             "#fff9f7",
+                             "#38262c"
+                         ],
+                         [
+                             "#385b91",
+                             "#e2edf8",
+                             "#e8ae6a",
+                             "#f7faff",
+                             "#202c3b"
+                         ]
+                     ],
+        "tagline":  "A considered experience, made around you.",
+        "previewPath":  "templates/primary-schools/design-1/index.html",
+        "categoryName":  "Primary Schools",
+        "thumbnail":  "templates/primary-schools/design-1/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Little Acorn",
+        "category":  "primary-schools"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact"
+                          ],
+        "id":  "primary-schools-design-2",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Primary schools",
+        "badge":  "",
+        "style":  "dark",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#ed6846",
+                       "#241c26",
+                       "#f3c85c",
+                       "#171820",
+                       "#f7f2ee"
+                   ],
+        "oldPrice":  12500,
+        "features":  [
+                         "Class calendar",
+                         "Family resources",
+                         "Meet our teachers"
+                     ],
+        "price":  10500,
+        "palettes":  [
+                         [
+                             "#ed6846",
+                             "#241c26",
+                             "#f3c85c",
+                             "#171820",
+                             "#f7f2ee"
+                         ],
+                         [
+                             "#d43d48",
+                             "#2d1a21",
+                             "#ffab72",
+                             "#1b1217",
+                             "#fff5ed"
+                         ],
+                         [
+                             "#b49a3d",
+                             "#23241d",
+                             "#b9d7b5",
+                             "#171a16",
+                             "#f5f4e9"
+                         ],
+                         [
+                             "#56a7a5",
+                             "#172a2c",
+                             "#f5c770",
+                             "#121c1e",
+                             "#eef8f5"
+                         ]
+                     ],
+        "tagline":  "Big ideas, a sharper presence, and a clear next step.",
+        "previewPath":  "templates/primary-schools/design-2/index.html",
+        "categoryName":  "Primary Schools",
+        "thumbnail":  "templates/primary-schools/design-2/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Wonder Years",
+        "category":  "primary-schools"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact"
+                          ],
+        "id":  "primary-schools-design-3",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Learning centers",
+        "badge":  "",
+        "style":  "colorful",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#268d78",
+                       "#eaf1d8",
+                       "#e78372",
+                       "#f5f7ef",
+                       "#26352e"
+                   ],
+        "oldPrice":  9500,
+        "features":  [
+                         "Class calendar",
+                         "Family resources",
+                         "Meet our teachers"
+                     ],
+        "price":  7500,
+        "palettes":  [
+                         [
+                             "#268d78",
+                             "#eaf1d8",
+                             "#e78372",
+                             "#f5f7ef",
+                             "#26352e"
+                         ],
+                         [
+                             "#d579a4",
+                             "#fce7f0",
+                             "#8170dc",
+                             "#fff8fb",
+                             "#382b36"
+                         ],
+                         [
+                             "#c38b42",
+                             "#f6e6c9",
+                             "#658e73",
+                             "#fcf8f0",
+                             "#342d22"
+                         ],
+                         [
+                             "#5582cf",
+                             "#e3ecfa",
+                             "#f1aa6d",
+                             "#f8faff",
+                             "#273346"
+                         ]
+                     ],
+        "tagline":  "A little care in every detail, from the first click.",
+        "previewPath":  "templates/primary-schools/design-3/index.html",
+        "categoryName":  "Primary Schools",
+        "thumbnail":  "templates/primary-schools/design-3/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Puddle Jumpers",
+        "category":  "primary-schools"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact"
+                          ],
+        "id":  "high-schools-academies-design-1",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "High schools",
+        "badge":  "",
+        "style":  "light",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#5a49d6",
+                       "#eeeaff",
+                       "#f4b95f",
+                       "#fbfaff",
+                       "#242238"
+                   ],
+        "oldPrice":  10500,
+        "features":  [
+                         "Admissions",
+                         "Programs",
+                         "Student life"
+                     ],
+        "price":  8500,
+        "palettes":  [
+                         [
+                             "#5a49d6",
+                             "#eeeaff",
+                             "#f4b95f",
+                             "#fbfaff",
+                             "#242238"
+                         ],
+                         [
+                             "#267b68",
+                             "#d9eee4",
+                             "#efa86e",
+                             "#f8fbf7",
+                             "#20332b"
+                         ],
+                         [
+                             "#c4566d",
+                             "#fae5e9",
+                             "#dba34a",
+                             "#fff9f7",
+                             "#38262c"
+                         ],
+                         [
+                             "#385b91",
+                             "#e2edf8",
+                             "#e8ae6a",
+                             "#f7faff",
+                             "#202c3b"
+                         ]
+                     ],
+        "tagline":  "A considered experience, made around you.",
+        "previewPath":  "templates/high-schools-academies/design-1/index.html",
+        "categoryName":  "High Schools \u0026 Academies",
+        "thumbnail":  "templates/high-schools-academies/design-1/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Summit Academy",
+        "category":  "high-schools-academies"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact"
+                          ],
+        "id":  "high-schools-academies-design-2",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Academies",
+        "badge":  "",
+        "style":  "dark",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#ed6846",
+                       "#241c26",
+                       "#f3c85c",
+                       "#171820",
+                       "#f7f2ee"
+                   ],
+        "oldPrice":  12500,
+        "features":  [
+                         "Admissions",
+                         "Programs",
+                         "Student life"
+                     ],
+        "price":  10500,
+        "palettes":  [
+                         [
+                             "#ed6846",
+                             "#241c26",
+                             "#f3c85c",
+                             "#171820",
+                             "#f7f2ee"
+                         ],
+                         [
+                             "#d43d48",
+                             "#2d1a21",
+                             "#ffab72",
+                             "#1b1217",
+                             "#fff5ed"
+                         ],
+                         [
+                             "#b49a3d",
+                             "#23241d",
+                             "#b9d7b5",
+                             "#171a16",
+                             "#f5f4e9"
+                         ],
+                         [
+                             "#56a7a5",
+                             "#172a2c",
+                             "#f5c770",
+                             "#121c1e",
+                             "#eef8f5"
+                         ]
+                     ],
+        "tagline":  "Big ideas, a sharper presence, and a clear next step.",
+        "previewPath":  "templates/high-schools-academies/design-2/index.html",
+        "categoryName":  "High Schools \u0026 Academies",
+        "thumbnail":  "templates/high-schools-academies/design-2/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Next Chapter",
+        "category":  "high-schools-academies"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact"
+                          ],
+        "id":  "high-schools-academies-design-3",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Test preparation",
+        "badge":  "",
+        "style":  "colorful",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#268d78",
+                       "#eaf1d8",
+                       "#e78372",
+                       "#f5f7ef",
+                       "#26352e"
+                   ],
+        "oldPrice":  9500,
+        "features":  [
+                         "Admissions",
+                         "Programs",
+                         "Student life"
+                     ],
+        "price":  7500,
+        "palettes":  [
+                         [
+                             "#268d78",
+                             "#eaf1d8",
+                             "#e78372",
+                             "#f5f7ef",
+                             "#26352e"
+                         ],
+                         [
+                             "#d579a4",
+                             "#fce7f0",
+                             "#8170dc",
+                             "#fff8fb",
+                             "#382b36"
+                         ],
+                         [
+                             "#c38b42",
+                             "#f6e6c9",
+                             "#658e73",
+                             "#fcf8f0",
+                             "#342d22"
+                         ],
+                         [
+                             "#5582cf",
+                             "#e3ecfa",
+                             "#f1aa6d",
+                             "#f8faff",
+                             "#273346"
+                         ]
+                     ],
+        "tagline":  "A little care in every detail, from the first click.",
+        "previewPath":  "templates/high-schools-academies/design-3/index.html",
+        "categoryName":  "High Schools \u0026 Academies",
+        "thumbnail":  "templates/high-schools-academies/design-3/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Brightbridge School",
+        "category":  "high-schools-academies"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact"
+                          ],
+        "id":  "universities-coaching-design-1",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Universities",
+        "badge":  "",
+        "style":  "light",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#5a49d6",
+                       "#eeeaff",
+                       "#f4b95f",
+                       "#fbfaff",
+                       "#242238"
+                   ],
+        "oldPrice":  10500,
+        "features":  [
+                         "Explore programs",
+                         "Campus life",
+                         "Student support"
+                     ],
+        "price":  8500,
+        "palettes":  [
+                         [
+                             "#5a49d6",
+                             "#eeeaff",
+                             "#f4b95f",
+                             "#fbfaff",
+                             "#242238"
+                         ],
+                         [
+                             "#267b68",
+                             "#d9eee4",
+                             "#efa86e",
+                             "#f8fbf7",
+                             "#20332b"
+                         ],
+                         [
+                             "#c4566d",
+                             "#fae5e9",
+                             "#dba34a",
+                             "#fff9f7",
+                             "#38262c"
+                         ],
+                         [
+                             "#385b91",
+                             "#e2edf8",
+                             "#e8ae6a",
+                             "#f7faff",
+                             "#202c3b"
+                         ]
+                     ],
+        "tagline":  "A considered experience, made around you.",
+        "previewPath":  "templates/universities-coaching/design-1/index.html",
+        "categoryName":  "Universities \u0026 Coaching Centers",
+        "thumbnail":  "templates/universities-coaching/design-1/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Northstar Learning",
+        "category":  "universities-coaching"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact"
+                          ],
+        "id":  "universities-coaching-design-2",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Coaching centers",
+        "badge":  "",
+        "style":  "dark",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#ed6846",
+                       "#241c26",
+                       "#f3c85c",
+                       "#171820",
+                       "#f7f2ee"
+                   ],
+        "oldPrice":  12500,
+        "features":  [
+                         "Explore programs",
+                         "Campus life",
+                         "Student support"
+                     ],
+        "price":  10500,
+        "palettes":  [
+                         [
+                             "#ed6846",
+                             "#241c26",
+                             "#f3c85c",
+                             "#171820",
+                             "#f7f2ee"
+                         ],
+                         [
+                             "#d43d48",
+                             "#2d1a21",
+                             "#ffab72",
+                             "#1b1217",
+                             "#fff5ed"
+                         ],
+                         [
+                             "#b49a3d",
+                             "#23241d",
+                             "#b9d7b5",
+                             "#171a16",
+                             "#f5f4e9"
+                         ],
+                         [
+                             "#56a7a5",
+                             "#172a2c",
+                             "#f5c770",
+                             "#121c1e",
+                             "#eef8f5"
+                         ]
+                     ],
+        "tagline":  "Big ideas, a sharper presence, and a clear next step.",
+        "previewPath":  "templates/universities-coaching/design-2/index.html",
+        "categoryName":  "Universities \u0026 Coaching Centers",
+        "thumbnail":  "templates/universities-coaching/design-2/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Open Campus",
+        "category":  "universities-coaching"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact"
+                          ],
+        "id":  "universities-coaching-design-3",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Online learning",
+        "badge":  "",
+        "style":  "colorful",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#268d78",
+                       "#eaf1d8",
+                       "#e78372",
+                       "#f5f7ef",
+                       "#26352e"
+                   ],
+        "oldPrice":  9500,
+        "features":  [
+                         "Explore programs",
+                         "Campus life",
+                         "Student support"
+                     ],
+        "price":  7500,
+        "palettes":  [
+                         [
+                             "#268d78",
+                             "#eaf1d8",
+                             "#e78372",
+                             "#f5f7ef",
+                             "#26352e"
+                         ],
+                         [
+                             "#d579a4",
+                             "#fce7f0",
+                             "#8170dc",
+                             "#fff8fb",
+                             "#382b36"
+                         ],
+                         [
+                             "#c38b42",
+                             "#f6e6c9",
+                             "#658e73",
+                             "#fcf8f0",
+                             "#342d22"
+                         ],
+                         [
+                             "#5582cf",
+                             "#e3ecfa",
+                             "#f1aa6d",
+                             "#f8faff",
+                             "#273346"
+                         ]
+                     ],
+        "tagline":  "A little care in every detail, from the first click.",
+        "previewPath":  "templates/universities-coaching/design-3/index.html",
+        "categoryName":  "Universities \u0026 Coaching Centers",
+        "thumbnail":  "templates/universities-coaching/design-3/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Common Ground",
+        "category":  "universities-coaching"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact",
+                              "Shop"
+                          ],
+        "id":  "shops-retail-design-1",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Clothing",
+        "badge":  "",
+        "style":  "light",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#5a49d6",
+                       "#eeeaff",
+                       "#f4b95f",
+                       "#fbfaff",
+                       "#242238"
+                   ],
+        "oldPrice":  10500,
+        "features":  [
+                         "New arrivals",
+                         "Store locations",
+                         "Style edit"
+                     ],
+        "price":  11000,
+        "palettes":  [
+                         [
+                             "#5a49d6",
+                             "#eeeaff",
+                             "#f4b95f",
+                             "#fbfaff",
+                             "#242238"
+                         ],
+                         [
+                             "#267b68",
+                             "#d9eee4",
+                             "#efa86e",
+                             "#f8fbf7",
+                             "#20332b"
+                         ],
+                         [
+                             "#c4566d",
+                             "#fae5e9",
+                             "#dba34a",
+                             "#fff9f7",
+                             "#38262c"
+                         ],
+                         [
+                             "#385b91",
+                             "#e2edf8",
+                             "#e8ae6a",
+                             "#f7faff",
+                             "#202c3b"
+                         ]
+                     ],
+        "tagline":  "A considered experience, made around you.",
+        "previewPath":  "templates/shops-retail/design-1/index.html",
+        "categoryName":  "Shops \u0026 Retail",
+        "thumbnail":  "templates/shops-retail/design-1/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Daily Form",
+        "category":  "shops-retail"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact",
+                              "Shop"
+                          ],
+        "id":  "shops-retail-design-2",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Shoes",
+        "badge":  "",
+        "style":  "dark",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#ed6846",
+                       "#241c26",
+                       "#f3c85c",
+                       "#171820",
+                       "#f7f2ee"
+                   ],
+        "oldPrice":  12500,
+        "features":  [
+                         "New arrivals",
+                         "Store locations",
+                         "Style edit"
+                     ],
+        "price":  13000,
+        "palettes":  [
+                         [
+                             "#ed6846",
+                             "#241c26",
+                             "#f3c85c",
+                             "#171820",
+                             "#f7f2ee"
+                         ],
+                         [
+                             "#d43d48",
+                             "#2d1a21",
+                             "#ffab72",
+                             "#1b1217",
+                             "#fff5ed"
+                         ],
+                         [
+                             "#b49a3d",
+                             "#23241d",
+                             "#b9d7b5",
+                             "#171a16",
+                             "#f5f4e9"
+                         ],
+                         [
+                             "#56a7a5",
+                             "#172a2c",
+                             "#f5c770",
+                             "#121c1e",
+                             "#eef8f5"
+                         ]
+                     ],
+        "tagline":  "Big ideas, a sharper presence, and a clear next step.",
+        "previewPath":  "templates/shops-retail/design-2/index.html",
+        "categoryName":  "Shops \u0026 Retail",
+        "thumbnail":  "templates/shops-retail/design-2/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Studio Market",
+        "category":  "shops-retail"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact",
+                              "Shop"
+                          ],
+        "id":  "shops-retail-design-3",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Grocery \u0026 electronics",
+        "badge":  "",
+        "style":  "colorful",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#268d78",
+                       "#eaf1d8",
+                       "#e78372",
+                       "#f5f7ef",
+                       "#26352e"
+                   ],
+        "oldPrice":  9500,
+        "features":  [
+                         "New arrivals",
+                         "Store locations",
+                         "Style edit"
+                     ],
+        "price":  10000,
+        "palettes":  [
+                         [
+                             "#268d78",
+                             "#eaf1d8",
+                             "#e78372",
+                             "#f5f7ef",
+                             "#26352e"
+                         ],
+                         [
+                             "#d579a4",
+                             "#fce7f0",
+                             "#8170dc",
+                             "#fff8fb",
+                             "#382b36"
+                         ],
+                         [
+                             "#c38b42",
+                             "#f6e6c9",
+                             "#658e73",
+                             "#fcf8f0",
+                             "#342d22"
+                         ],
+                         [
+                             "#5582cf",
+                             "#e3ecfa",
+                             "#f1aa6d",
+                             "#f8faff",
+                             "#273346"
+                         ]
+                     ],
+        "tagline":  "A little care in every detail, from the first click.",
+        "previewPath":  "templates/shops-retail/design-3/index.html",
+        "categoryName":  "Shops \u0026 Retail",
+        "thumbnail":  "templates/shops-retail/design-3/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Sunday Supply",
+        "category":  "shops-retail"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact",
+                              "Shop"
+                          ],
+        "id":  "ecommerce-stores-design-1",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Fashion",
+        "badge":  "Popular",
+        "style":  "light",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#5a49d6",
+                       "#eeeaff",
+                       "#f4b95f",
+                       "#fbfaff",
+                       "#242238"
+                   ],
+        "oldPrice":  10500,
+        "features":  [
+                         "Product collection",
+                         "Secure checkout",
+                         "Order tracking"
+                     ],
+        "price":  11000,
+        "palettes":  [
+                         [
+                             "#5a49d6",
+                             "#eeeaff",
+                             "#f4b95f",
+                             "#fbfaff",
+                             "#242238"
+                         ],
+                         [
+                             "#267b68",
+                             "#d9eee4",
+                             "#efa86e",
+                             "#f8fbf7",
+                             "#20332b"
+                         ],
+                         [
+                             "#c4566d",
+                             "#fae5e9",
+                             "#dba34a",
+                             "#fff9f7",
+                             "#38262c"
+                         ],
+                         [
+                             "#385b91",
+                             "#e2edf8",
+                             "#e8ae6a",
+                             "#f7faff",
+                             "#202c3b"
+                         ]
+                     ],
+        "tagline":  "A considered experience, made around you.",
+        "previewPath":  "templates/ecommerce-stores/design-1/index.html",
+        "categoryName":  "E-commerce Stores",
+        "thumbnail":  "templates/ecommerce-stores/design-1/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Forma Goods",
+        "category":  "ecommerce-stores"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact",
+                              "Shop"
+                          ],
+        "id":  "ecommerce-stores-design-2",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Home \u0026 living",
+        "badge":  "",
+        "style":  "dark",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#ed6846",
+                       "#241c26",
+                       "#f3c85c",
+                       "#171820",
+                       "#f7f2ee"
+                   ],
+        "oldPrice":  12500,
+        "features":  [
+                         "Product collection",
+                         "Secure checkout",
+                         "Order tracking"
+                     ],
+        "price":  13000,
+        "palettes":  [
+                         [
+                             "#ed6846",
+                             "#241c26",
+                             "#f3c85c",
+                             "#171820",
+                             "#f7f2ee"
+                         ],
+                         [
+                             "#d43d48",
+                             "#2d1a21",
+                             "#ffab72",
+                             "#1b1217",
+                             "#fff5ed"
+                         ],
+                         [
+                             "#b49a3d",
+                             "#23241d",
+                             "#b9d7b5",
+                             "#171a16",
+                             "#f5f4e9"
+                         ],
+                         [
+                             "#56a7a5",
+                             "#172a2c",
+                             "#f5c770",
+                             "#121c1e",
+                             "#eef8f5"
+                         ]
+                     ],
+        "tagline":  "Big ideas, a sharper presence, and a clear next step.",
+        "previewPath":  "templates/ecommerce-stores/design-2/index.html",
+        "categoryName":  "E-commerce Stores",
+        "thumbnail":  "templates/ecommerce-stores/design-2/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Maison Edit",
+        "category":  "ecommerce-stores"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact",
+                              "Shop"
+                          ],
+        "id":  "ecommerce-stores-design-3",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Beauty \u0026 goods",
+        "badge":  "",
+        "style":  "colorful",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#268d78",
+                       "#eaf1d8",
+                       "#e78372",
+                       "#f5f7ef",
+                       "#26352e"
+                   ],
+        "oldPrice":  9500,
+        "features":  [
+                         "Product collection",
+                         "Secure checkout",
+                         "Order tracking"
+                     ],
+        "price":  10000,
+        "palettes":  [
+                         [
+                             "#268d78",
+                             "#eaf1d8",
+                             "#e78372",
+                             "#f5f7ef",
+                             "#26352e"
+                         ],
+                         [
+                             "#d579a4",
+                             "#fce7f0",
+                             "#8170dc",
+                             "#fff8fb",
+                             "#382b36"
+                         ],
+                         [
+                             "#c38b42",
+                             "#f6e6c9",
+                             "#658e73",
+                             "#fcf8f0",
+                             "#342d22"
+                         ],
+                         [
+                             "#5582cf",
+                             "#e3ecfa",
+                             "#f1aa6d",
+                             "#f8faff",
+                             "#273346"
+                         ]
+                     ],
+        "tagline":  "A little care in every detail, from the first click.",
+        "previewPath":  "templates/ecommerce-stores/design-3/index.html",
+        "categoryName":  "E-commerce Stores",
+        "thumbnail":  "templates/ecommerce-stores/design-3/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Soft Supply",
+        "category":  "ecommerce-stores"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact"
+                          ],
+        "id":  "cars-showrooms-design-1",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Car showrooms",
+        "badge":  "",
+        "style":  "light",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#5a49d6",
+                       "#eeeaff",
+                       "#f4b95f",
+                       "#fbfaff",
+                       "#242238"
+                   ],
+        "oldPrice":  10500,
+        "features":  [
+                         "Browse vehicles",
+                         "Model details",
+                         "Book a test drive"
+                     ],
+        "price":  8500,
+        "palettes":  [
+                         [
+                             "#5a49d6",
+                             "#eeeaff",
+                             "#f4b95f",
+                             "#fbfaff",
+                             "#242238"
+                         ],
+                         [
+                             "#267b68",
+                             "#d9eee4",
+                             "#efa86e",
+                             "#f8fbf7",
+                             "#20332b"
+                         ],
+                         [
+                             "#c4566d",
+                             "#fae5e9",
+                             "#dba34a",
+                             "#fff9f7",
+                             "#38262c"
+                         ],
+                         [
+                             "#385b91",
+                             "#e2edf8",
+                             "#e8ae6a",
+                             "#f7faff",
+                             "#202c3b"
+                         ]
+                     ],
+        "tagline":  "A considered experience, made around you.",
+        "previewPath":  "templates/cars-showrooms/design-1/index.html",
+        "categoryName":  "Cars \u0026 Showrooms",
+        "thumbnail":  "templates/cars-showrooms/design-1/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Monarch Motors",
+        "category":  "cars-showrooms"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact"
+                          ],
+        "id":  "cars-showrooms-design-2",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Auto dealers",
+        "badge":  "",
+        "style":  "dark",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#ed6846",
+                       "#241c26",
+                       "#f3c85c",
+                       "#171820",
+                       "#f7f2ee"
+                   ],
+        "oldPrice":  12500,
+        "features":  [
+                         "Browse vehicles",
+                         "Model details",
+                         "Book a test drive"
+                     ],
+        "price":  10500,
+        "palettes":  [
+                         [
+                             "#ed6846",
+                             "#241c26",
+                             "#f3c85c",
+                             "#171820",
+                             "#f7f2ee"
+                         ],
+                         [
+                             "#d43d48",
+                             "#2d1a21",
+                             "#ffab72",
+                             "#1b1217",
+                             "#fff5ed"
+                         ],
+                         [
+                             "#b49a3d",
+                             "#23241d",
+                             "#b9d7b5",
+                             "#171a16",
+                             "#f5f4e9"
+                         ],
+                         [
+                             "#56a7a5",
+                             "#172a2c",
+                             "#f5c770",
+                             "#121c1e",
+                             "#eef8f5"
+                         ]
+                     ],
+        "tagline":  "Big ideas, a sharper presence, and a clear next step.",
+        "previewPath":  "templates/cars-showrooms/design-2/index.html",
+        "categoryName":  "Cars \u0026 Showrooms",
+        "thumbnail":  "templates/cars-showrooms/design-2/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Apex Auto",
+        "category":  "cars-showrooms"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact"
+                          ],
+        "id":  "cars-showrooms-design-3",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Car rentals",
+        "badge":  "",
+        "style":  "colorful",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#268d78",
+                       "#eaf1d8",
+                       "#e78372",
+                       "#f5f7ef",
+                       "#26352e"
+                   ],
+        "oldPrice":  9500,
+        "features":  [
+                         "Browse vehicles",
+                         "Model details",
+                         "Book a test drive"
+                     ],
+        "price":  7500,
+        "palettes":  [
+                         [
+                             "#268d78",
+                             "#eaf1d8",
+                             "#e78372",
+                             "#f5f7ef",
+                             "#26352e"
+                         ],
+                         [
+                             "#d579a4",
+                             "#fce7f0",
+                             "#8170dc",
+                             "#fff8fb",
+                             "#382b36"
+                         ],
+                         [
+                             "#c38b42",
+                             "#f6e6c9",
+                             "#658e73",
+                             "#fcf8f0",
+                             "#342d22"
+                         ],
+                         [
+                             "#5582cf",
+                             "#e3ecfa",
+                             "#f1aa6d",
+                             "#f8faff",
+                             "#273346"
+                         ]
+                     ],
+        "tagline":  "A little care in every detail, from the first click.",
+        "previewPath":  "templates/cars-showrooms/design-3/index.html",
+        "categoryName":  "Cars \u0026 Showrooms",
+        "thumbnail":  "templates/cars-showrooms/design-3/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Sunday Drive",
+        "category":  "cars-showrooms"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact"
+                          ],
+        "id":  "real-estate-design-1",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Residential",
+        "badge":  "",
+        "style":  "light",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#5a49d6",
+                       "#eeeaff",
+                       "#f4b95f",
+                       "#fbfaff",
+                       "#242238"
+                   ],
+        "oldPrice":  10500,
+        "features":  [
+                         "Property listings",
+                         "Neighborhood guide",
+                         "Viewing request"
+                     ],
+        "price":  8500,
+        "palettes":  [
+                         [
+                             "#5a49d6",
+                             "#eeeaff",
+                             "#f4b95f",
+                             "#fbfaff",
+                             "#242238"
+                         ],
+                         [
+                             "#267b68",
+                             "#d9eee4",
+                             "#efa86e",
+                             "#f8fbf7",
+                             "#20332b"
+                         ],
+                         [
+                             "#c4566d",
+                             "#fae5e9",
+                             "#dba34a",
+                             "#fff9f7",
+                             "#38262c"
+                         ],
+                         [
+                             "#385b91",
+                             "#e2edf8",
+                             "#e8ae6a",
+                             "#f7faff",
+                             "#202c3b"
+                         ]
+                     ],
+        "tagline":  "A considered experience, made around you.",
+        "previewPath":  "templates/real-estate/design-1/index.html",
+        "categoryName":  "Real Estate \u0026 Property Dealers",
+        "thumbnail":  "templates/real-estate/design-1/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Fieldstone Living",
+        "category":  "real-estate"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact"
+                          ],
+        "id":  "real-estate-design-2",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Commercial",
+        "badge":  "",
+        "style":  "dark",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#ed6846",
+                       "#241c26",
+                       "#f3c85c",
+                       "#171820",
+                       "#f7f2ee"
+                   ],
+        "oldPrice":  12500,
+        "features":  [
+                         "Property listings",
+                         "Neighborhood guide",
+                         "Viewing request"
+                     ],
+        "price":  10500,
+        "palettes":  [
+                         [
+                             "#ed6846",
+                             "#241c26",
+                             "#f3c85c",
+                             "#171820",
+                             "#f7f2ee"
+                         ],
+                         [
+                             "#d43d48",
+                             "#2d1a21",
+                             "#ffab72",
+                             "#1b1217",
+                             "#fff5ed"
+                         ],
+                         [
+                             "#b49a3d",
+                             "#23241d",
+                             "#b9d7b5",
+                             "#171a16",
+                             "#f5f4e9"
+                         ],
+                         [
+                             "#56a7a5",
+                             "#172a2c",
+                             "#f5c770",
+                             "#121c1e",
+                             "#eef8f5"
+                         ]
+                     ],
+        "tagline":  "Big ideas, a sharper presence, and a clear next step.",
+        "previewPath":  "templates/real-estate/design-2/index.html",
+        "categoryName":  "Real Estate \u0026 Property Dealers",
+        "thumbnail":  "templates/real-estate/design-2/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "The New Address",
+        "category":  "real-estate"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact"
+                          ],
+        "id":  "real-estate-design-3",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Property agents",
+        "badge":  "",
+        "style":  "colorful",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#268d78",
+                       "#eaf1d8",
+                       "#e78372",
+                       "#f5f7ef",
+                       "#26352e"
+                   ],
+        "oldPrice":  9500,
+        "features":  [
+                         "Property listings",
+                         "Neighborhood guide",
+                         "Viewing request"
+                     ],
+        "price":  7500,
+        "palettes":  [
+                         [
+                             "#268d78",
+                             "#eaf1d8",
+                             "#e78372",
+                             "#f5f7ef",
+                             "#26352e"
+                         ],
+                         [
+                             "#d579a4",
+                             "#fce7f0",
+                             "#8170dc",
+                             "#fff8fb",
+                             "#382b36"
+                         ],
+                         [
+                             "#c38b42",
+                             "#f6e6c9",
+                             "#658e73",
+                             "#fcf8f0",
+                             "#342d22"
+                         ],
+                         [
+                             "#5582cf",
+                             "#e3ecfa",
+                             "#f1aa6d",
+                             "#f8faff",
+                             "#273346"
+                         ]
+                     ],
+        "tagline":  "A little care in every detail, from the first click.",
+        "previewPath":  "templates/real-estate/design-3/index.html",
+        "categoryName":  "Real Estate \u0026 Property Dealers",
+        "thumbnail":  "templates/real-estate/design-3/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Nest \u0026 Co.",
+        "category":  "real-estate"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact"
+                          ],
+        "id":  "restaurants-cafes-design-1",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Restaurants",
+        "badge":  "Popular",
+        "style":  "light",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#5a49d6",
+                       "#eeeaff",
+                       "#f4b95f",
+                       "#fbfaff",
+                       "#242238"
+                   ],
+        "oldPrice":  10500,
+        "features":  [
+                         "Seasonal menu",
+                         "Table booking",
+                         "Private events"
+                     ],
+        "price":  8500,
+        "palettes":  [
+                         [
+                             "#5a49d6",
+                             "#eeeaff",
+                             "#f4b95f",
+                             "#fbfaff",
+                             "#242238"
+                         ],
+                         [
+                             "#267b68",
+                             "#d9eee4",
+                             "#efa86e",
+                             "#f8fbf7",
+                             "#20332b"
+                         ],
+                         [
+                             "#c4566d",
+                             "#fae5e9",
+                             "#dba34a",
+                             "#fff9f7",
+                             "#38262c"
+                         ],
+                         [
+                             "#385b91",
+                             "#e2edf8",
+                             "#e8ae6a",
+                             "#f7faff",
+                             "#202c3b"
+                         ]
+                     ],
+        "tagline":  "A considered experience, made around you.",
+        "previewPath":  "templates/restaurants-cafes/design-1/index.html",
+        "categoryName":  "Restaurants \u0026 Cafes",
+        "thumbnail":  "templates/restaurants-cafes/design-1/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Olive \u0026 Ember",
+        "category":  "restaurants-cafes"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact"
+                          ],
+        "id":  "restaurants-cafes-design-2",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Cafes",
+        "badge":  "",
+        "style":  "dark",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#ed6846",
+                       "#241c26",
+                       "#f3c85c",
+                       "#171820",
+                       "#f7f2ee"
+                   ],
+        "oldPrice":  12500,
+        "features":  [
+                         "Seasonal menu",
+                         "Table booking",
+                         "Private events"
+                     ],
+        "price":  10500,
+        "palettes":  [
+                         [
+                             "#ed6846",
+                             "#241c26",
+                             "#f3c85c",
+                             "#171820",
+                             "#f7f2ee"
+                         ],
+                         [
+                             "#d43d48",
+                             "#2d1a21",
+                             "#ffab72",
+                             "#1b1217",
+                             "#fff5ed"
+                         ],
+                         [
+                             "#b49a3d",
+                             "#23241d",
+                             "#b9d7b5",
+                             "#171a16",
+                             "#f5f4e9"
+                         ],
+                         [
+                             "#56a7a5",
+                             "#172a2c",
+                             "#f5c770",
+                             "#121c1e",
+                             "#eef8f5"
+                         ]
+                     ],
+        "tagline":  "Big ideas, a sharper presence, and a clear next step.",
+        "previewPath":  "templates/restaurants-cafes/design-2/index.html",
+        "categoryName":  "Restaurants \u0026 Cafes",
+        "thumbnail":  "templates/restaurants-cafes/design-2/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Table No. 8",
+        "category":  "restaurants-cafes"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact"
+                          ],
+        "id":  "restaurants-cafes-design-3",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Bakeries \u0026 dining",
+        "badge":  "",
+        "style":  "colorful",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#268d78",
+                       "#eaf1d8",
+                       "#e78372",
+                       "#f5f7ef",
+                       "#26352e"
+                   ],
+        "oldPrice":  9500,
+        "features":  [
+                         "Seasonal menu",
+                         "Table booking",
+                         "Private events"
+                     ],
+        "price":  7500,
+        "palettes":  [
+                         [
+                             "#268d78",
+                             "#eaf1d8",
+                             "#e78372",
+                             "#f5f7ef",
+                             "#26352e"
+                         ],
+                         [
+                             "#d579a4",
+                             "#fce7f0",
+                             "#8170dc",
+                             "#fff8fb",
+                             "#382b36"
+                         ],
+                         [
+                             "#c38b42",
+                             "#f6e6c9",
+                             "#658e73",
+                             "#fcf8f0",
+                             "#342d22"
+                         ],
+                         [
+                             "#5582cf",
+                             "#e3ecfa",
+                             "#f1aa6d",
+                             "#f8faff",
+                             "#273346"
+                         ]
+                     ],
+        "tagline":  "A little care in every detail, from the first click.",
+        "previewPath":  "templates/restaurants-cafes/design-3/index.html",
+        "categoryName":  "Restaurants \u0026 Cafes",
+        "thumbnail":  "templates/restaurants-cafes/design-3/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Sunday Brunch",
+        "category":  "restaurants-cafes"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact"
+                          ],
+        "id":  "salons-spas-barbers-design-1",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Hair salons",
+        "badge":  "",
+        "style":  "light",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#5a49d6",
+                       "#eeeaff",
+                       "#f4b95f",
+                       "#fbfaff",
+                       "#242238"
+                   ],
+        "oldPrice":  10500,
+        "features":  [
+                         "Service menu",
+                         "Online booking",
+                         "Meet our artists"
+                     ],
+        "price":  8500,
+        "palettes":  [
+                         [
+                             "#5a49d6",
+                             "#eeeaff",
+                             "#f4b95f",
+                             "#fbfaff",
+                             "#242238"
+                         ],
+                         [
+                             "#267b68",
+                             "#d9eee4",
+                             "#efa86e",
+                             "#f8fbf7",
+                             "#20332b"
+                         ],
+                         [
+                             "#c4566d",
+                             "#fae5e9",
+                             "#dba34a",
+                             "#fff9f7",
+                             "#38262c"
+                         ],
+                         [
+                             "#385b91",
+                             "#e2edf8",
+                             "#e8ae6a",
+                             "#f7faff",
+                             "#202c3b"
+                         ]
+                     ],
+        "tagline":  "A considered experience, made around you.",
+        "previewPath":  "templates/salons-spas-barbers/design-1/index.html",
+        "categoryName":  "Salons, Spas \u0026 Barbers",
+        "thumbnail":  "templates/salons-spas-barbers/design-1/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Luna House",
+        "category":  "salons-spas-barbers"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact"
+                          ],
+        "id":  "salons-spas-barbers-design-2",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Spas",
+        "badge":  "",
+        "style":  "dark",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#ed6846",
+                       "#241c26",
+                       "#f3c85c",
+                       "#171820",
+                       "#f7f2ee"
+                   ],
+        "oldPrice":  12500,
+        "features":  [
+                         "Service menu",
+                         "Online booking",
+                         "Meet our artists"
+                     ],
+        "price":  10500,
+        "palettes":  [
+                         [
+                             "#ed6846",
+                             "#241c26",
+                             "#f3c85c",
+                             "#171820",
+                             "#f7f2ee"
+                         ],
+                         [
+                             "#d43d48",
+                             "#2d1a21",
+                             "#ffab72",
+                             "#1b1217",
+                             "#fff5ed"
+                         ],
+                         [
+                             "#b49a3d",
+                             "#23241d",
+                             "#b9d7b5",
+                             "#171a16",
+                             "#f5f4e9"
+                         ],
+                         [
+                             "#56a7a5",
+                             "#172a2c",
+                             "#f5c770",
+                             "#121c1e",
+                             "#eef8f5"
+                         ]
+                     ],
+        "tagline":  "Big ideas, a sharper presence, and a clear next step.",
+        "previewPath":  "templates/salons-spas-barbers/design-2/index.html",
+        "categoryName":  "Salons, Spas \u0026 Barbers",
+        "thumbnail":  "templates/salons-spas-barbers/design-2/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Soft Ritual",
+        "category":  "salons-spas-barbers"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact"
+                          ],
+        "id":  "salons-spas-barbers-design-3",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Barbers",
+        "badge":  "",
+        "style":  "colorful",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#268d78",
+                       "#eaf1d8",
+                       "#e78372",
+                       "#f5f7ef",
+                       "#26352e"
+                   ],
+        "oldPrice":  9500,
+        "features":  [
+                         "Service menu",
+                         "Online booking",
+                         "Meet our artists"
+                     ],
+        "price":  7500,
+        "palettes":  [
+                         [
+                             "#268d78",
+                             "#eaf1d8",
+                             "#e78372",
+                             "#f5f7ef",
+                             "#26352e"
+                         ],
+                         [
+                             "#d579a4",
+                             "#fce7f0",
+                             "#8170dc",
+                             "#fff8fb",
+                             "#382b36"
+                         ],
+                         [
+                             "#c38b42",
+                             "#f6e6c9",
+                             "#658e73",
+                             "#fcf8f0",
+                             "#342d22"
+                         ],
+                         [
+                             "#5582cf",
+                             "#e3ecfa",
+                             "#f1aa6d",
+                             "#f8faff",
+                             "#273346"
+                         ]
+                     ],
+        "tagline":  "A little care in every detail, from the first click.",
+        "previewPath":  "templates/salons-spas-barbers/design-3/index.html",
+        "categoryName":  "Salons, Spas \u0026 Barbers",
+        "thumbnail":  "templates/salons-spas-barbers/design-3/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "The Good Cut",
+        "category":  "salons-spas-barbers"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact"
+                          ],
+        "id":  "law-firms-consultants-design-1",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Law firms",
+        "badge":  "",
+        "style":  "light",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#5a49d6",
+                       "#eeeaff",
+                       "#f4b95f",
+                       "#fbfaff",
+                       "#242238"
+                   ],
+        "oldPrice":  10500,
+        "features":  [
+                         "Our expertise",
+                         "Meet the team",
+                         "Book a consultation"
+                     ],
+        "price":  8500,
+        "palettes":  [
+                         [
+                             "#5a49d6",
+                             "#eeeaff",
+                             "#f4b95f",
+                             "#fbfaff",
+                             "#242238"
+                         ],
+                         [
+                             "#267b68",
+                             "#d9eee4",
+                             "#efa86e",
+                             "#f8fbf7",
+                             "#20332b"
+                         ],
+                         [
+                             "#c4566d",
+                             "#fae5e9",
+                             "#dba34a",
+                             "#fff9f7",
+                             "#38262c"
+                         ],
+                         [
+                             "#385b91",
+                             "#e2edf8",
+                             "#e8ae6a",
+                             "#f7faff",
+                             "#202c3b"
+                         ]
+                     ],
+        "tagline":  "A considered experience, made around you.",
+        "previewPath":  "templates/law-firms-consultants/design-1/index.html",
+        "categoryName":  "Law Firms \u0026 Consultants",
+        "thumbnail":  "templates/law-firms-consultants/design-1/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "West \u0026 Vale",
+        "category":  "law-firms-consultants"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact"
+                          ],
+        "id":  "law-firms-consultants-design-2",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Consultants",
+        "badge":  "",
+        "style":  "dark",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#ed6846",
+                       "#241c26",
+                       "#f3c85c",
+                       "#171820",
+                       "#f7f2ee"
+                   ],
+        "oldPrice":  12500,
+        "features":  [
+                         "Our expertise",
+                         "Meet the team",
+                         "Book a consultation"
+                     ],
+        "price":  10500,
+        "palettes":  [
+                         [
+                             "#ed6846",
+                             "#241c26",
+                             "#f3c85c",
+                             "#171820",
+                             "#f7f2ee"
+                         ],
+                         [
+                             "#d43d48",
+                             "#2d1a21",
+                             "#ffab72",
+                             "#1b1217",
+                             "#fff5ed"
+                         ],
+                         [
+                             "#b49a3d",
+                             "#23241d",
+                             "#b9d7b5",
+                             "#171a16",
+                             "#f5f4e9"
+                         ],
+                         [
+                             "#56a7a5",
+                             "#172a2c",
+                             "#f5c770",
+                             "#121c1e",
+                             "#eef8f5"
+                         ]
+                     ],
+        "tagline":  "Big ideas, a sharper presence, and a clear next step.",
+        "previewPath":  "templates/law-firms-consultants/design-2/index.html",
+        "categoryName":  "Law Firms \u0026 Consultants",
+        "thumbnail":  "templates/law-firms-consultants/design-2/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Civic Counsel",
+        "category":  "law-firms-consultants"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact"
+                          ],
+        "id":  "law-firms-consultants-design-3",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Advisory",
+        "badge":  "",
+        "style":  "colorful",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#268d78",
+                       "#eaf1d8",
+                       "#e78372",
+                       "#f5f7ef",
+                       "#26352e"
+                   ],
+        "oldPrice":  9500,
+        "features":  [
+                         "Our expertise",
+                         "Meet the team",
+                         "Book a consultation"
+                     ],
+        "price":  7500,
+        "palettes":  [
+                         [
+                             "#268d78",
+                             "#eaf1d8",
+                             "#e78372",
+                             "#f5f7ef",
+                             "#26352e"
+                         ],
+                         [
+                             "#d579a4",
+                             "#fce7f0",
+                             "#8170dc",
+                             "#fff8fb",
+                             "#382b36"
+                         ],
+                         [
+                             "#c38b42",
+                             "#f6e6c9",
+                             "#658e73",
+                             "#fcf8f0",
+                             "#342d22"
+                         ],
+                         [
+                             "#5582cf",
+                             "#e3ecfa",
+                             "#f1aa6d",
+                             "#f8faff",
+                             "#273346"
+                         ]
+                     ],
+        "tagline":  "A little care in every detail, from the first click.",
+        "previewPath":  "templates/law-firms-consultants/design-3/index.html",
+        "categoryName":  "Law Firms \u0026 Consultants",
+        "thumbnail":  "templates/law-firms-consultants/design-3/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Clearpoint Advisory",
+        "category":  "law-firms-consultants"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact"
+                          ],
+        "id":  "photography-studios-design-1",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Photographers",
+        "badge":  "",
+        "style":  "light",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#5a49d6",
+                       "#eeeaff",
+                       "#f4b95f",
+                       "#fbfaff",
+                       "#242238"
+                   ],
+        "oldPrice":  10500,
+        "features":  [
+                         "Selected work",
+                         "Studio story",
+                         "Project inquiry"
+                     ],
+        "price":  8500,
+        "palettes":  [
+                         [
+                             "#5a49d6",
+                             "#eeeaff",
+                             "#f4b95f",
+                             "#fbfaff",
+                             "#242238"
+                         ],
+                         [
+                             "#267b68",
+                             "#d9eee4",
+                             "#efa86e",
+                             "#f8fbf7",
+                             "#20332b"
+                         ],
+                         [
+                             "#c4566d",
+                             "#fae5e9",
+                             "#dba34a",
+                             "#fff9f7",
+                             "#38262c"
+                         ],
+                         [
+                             "#385b91",
+                             "#e2edf8",
+                             "#e8ae6a",
+                             "#f7faff",
+                             "#202c3b"
+                         ]
+                     ],
+        "tagline":  "A considered experience, made around you.",
+        "previewPath":  "templates/photography-studios/design-1/index.html",
+        "categoryName":  "Photography \u0026 Studios",
+        "thumbnail":  "templates/photography-studios/design-1/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Stillframe Studio",
+        "category":  "photography-studios"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact"
+                          ],
+        "id":  "photography-studios-design-2",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Studios",
+        "badge":  "",
+        "style":  "dark",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#ed6846",
+                       "#241c26",
+                       "#f3c85c",
+                       "#171820",
+                       "#f7f2ee"
+                   ],
+        "oldPrice":  12500,
+        "features":  [
+                         "Selected work",
+                         "Studio story",
+                         "Project inquiry"
+                     ],
+        "price":  10500,
+        "palettes":  [
+                         [
+                             "#ed6846",
+                             "#241c26",
+                             "#f3c85c",
+                             "#171820",
+                             "#f7f2ee"
+                         ],
+                         [
+                             "#d43d48",
+                             "#2d1a21",
+                             "#ffab72",
+                             "#1b1217",
+                             "#fff5ed"
+                         ],
+                         [
+                             "#b49a3d",
+                             "#23241d",
+                             "#b9d7b5",
+                             "#171a16",
+                             "#f5f4e9"
+                         ],
+                         [
+                             "#56a7a5",
+                             "#172a2c",
+                             "#f5c770",
+                             "#121c1e",
+                             "#eef8f5"
+                         ]
+                     ],
+        "tagline":  "Big ideas, a sharper presence, and a clear next step.",
+        "previewPath":  "templates/photography-studios/design-2/index.html",
+        "categoryName":  "Photography \u0026 Studios",
+        "thumbnail":  "templates/photography-studios/design-2/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Golden Hour Co.",
+        "category":  "photography-studios"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact"
+                          ],
+        "id":  "photography-studios-design-3",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Creative production",
+        "badge":  "",
+        "style":  "colorful",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#268d78",
+                       "#eaf1d8",
+                       "#e78372",
+                       "#f5f7ef",
+                       "#26352e"
+                   ],
+        "oldPrice":  9500,
+        "features":  [
+                         "Selected work",
+                         "Studio story",
+                         "Project inquiry"
+                     ],
+        "price":  7500,
+        "palettes":  [
+                         [
+                             "#268d78",
+                             "#eaf1d8",
+                             "#e78372",
+                             "#f5f7ef",
+                             "#26352e"
+                         ],
+                         [
+                             "#d579a4",
+                             "#fce7f0",
+                             "#8170dc",
+                             "#fff8fb",
+                             "#382b36"
+                         ],
+                         [
+                             "#c38b42",
+                             "#f6e6c9",
+                             "#658e73",
+                             "#fcf8f0",
+                             "#342d22"
+                         ],
+                         [
+                             "#5582cf",
+                             "#e3ecfa",
+                             "#f1aa6d",
+                             "#f8faff",
+                             "#273346"
+                         ]
+                     ],
+        "tagline":  "A little care in every detail, from the first click.",
+        "previewPath":  "templates/photography-studios/design-3/index.html",
+        "categoryName":  "Photography \u0026 Studios",
+        "thumbnail":  "templates/photography-studios/design-3/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Soft Focus",
+        "category":  "photography-studios"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact"
+                          ],
+        "id":  "hotels-travel-tours-design-1",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Hotels",
+        "badge":  "",
+        "style":  "light",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#5a49d6",
+                       "#eeeaff",
+                       "#f4b95f",
+                       "#fbfaff",
+                       "#242238"
+                   ],
+        "oldPrice":  10500,
+        "features":  [
+                         "Stay collection",
+                         "Local guide",
+                         "Plan your trip"
+                     ],
+        "price":  8500,
+        "palettes":  [
+                         [
+                             "#5a49d6",
+                             "#eeeaff",
+                             "#f4b95f",
+                             "#fbfaff",
+                             "#242238"
+                         ],
+                         [
+                             "#267b68",
+                             "#d9eee4",
+                             "#efa86e",
+                             "#f8fbf7",
+                             "#20332b"
+                         ],
+                         [
+                             "#c4566d",
+                             "#fae5e9",
+                             "#dba34a",
+                             "#fff9f7",
+                             "#38262c"
+                         ],
+                         [
+                             "#385b91",
+                             "#e2edf8",
+                             "#e8ae6a",
+                             "#f7faff",
+                             "#202c3b"
+                         ]
+                     ],
+        "tagline":  "A considered experience, made around you.",
+        "previewPath":  "templates/hotels-travel-tours/design-1/index.html",
+        "categoryName":  "Hotels, Travel \u0026 Tours",
+        "thumbnail":  "templates/hotels-travel-tours/design-1/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Elsewhere Stay",
+        "category":  "hotels-travel-tours"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact"
+                          ],
+        "id":  "hotels-travel-tours-design-2",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Travel agencies",
+        "badge":  "",
+        "style":  "dark",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#ed6846",
+                       "#241c26",
+                       "#f3c85c",
+                       "#171820",
+                       "#f7f2ee"
+                   ],
+        "oldPrice":  12500,
+        "features":  [
+                         "Stay collection",
+                         "Local guide",
+                         "Plan your trip"
+                     ],
+        "price":  10500,
+        "palettes":  [
+                         [
+                             "#ed6846",
+                             "#241c26",
+                             "#f3c85c",
+                             "#171820",
+                             "#f7f2ee"
+                         ],
+                         [
+                             "#d43d48",
+                             "#2d1a21",
+                             "#ffab72",
+                             "#1b1217",
+                             "#fff5ed"
+                         ],
+                         [
+                             "#b49a3d",
+                             "#23241d",
+                             "#b9d7b5",
+                             "#171a16",
+                             "#f5f4e9"
+                         ],
+                         [
+                             "#56a7a5",
+                             "#172a2c",
+                             "#f5c770",
+                             "#121c1e",
+                             "#eef8f5"
+                         ]
+                     ],
+        "tagline":  "Big ideas, a sharper presence, and a clear next step.",
+        "previewPath":  "templates/hotels-travel-tours/design-2/index.html",
+        "categoryName":  "Hotels, Travel \u0026 Tours",
+        "thumbnail":  "templates/hotels-travel-tours/design-2/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Palm \u0026 Pine",
+        "category":  "hotels-travel-tours"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact"
+                          ],
+        "id":  "hotels-travel-tours-design-3",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Local tours",
+        "badge":  "",
+        "style":  "colorful",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#268d78",
+                       "#eaf1d8",
+                       "#e78372",
+                       "#f5f7ef",
+                       "#26352e"
+                   ],
+        "oldPrice":  9500,
+        "features":  [
+                         "Stay collection",
+                         "Local guide",
+                         "Plan your trip"
+                     ],
+        "price":  7500,
+        "palettes":  [
+                         [
+                             "#268d78",
+                             "#eaf1d8",
+                             "#e78372",
+                             "#f5f7ef",
+                             "#26352e"
+                         ],
+                         [
+                             "#d579a4",
+                             "#fce7f0",
+                             "#8170dc",
+                             "#fff8fb",
+                             "#382b36"
+                         ],
+                         [
+                             "#c38b42",
+                             "#f6e6c9",
+                             "#658e73",
+                             "#fcf8f0",
+                             "#342d22"
+                         ],
+                         [
+                             "#5582cf",
+                             "#e3ecfa",
+                             "#f1aa6d",
+                             "#f8faff",
+                             "#273346"
+                         ]
+                     ],
+        "tagline":  "A little care in every detail, from the first click.",
+        "previewPath":  "templates/hotels-travel-tours/design-3/index.html",
+        "categoryName":  "Hotels, Travel \u0026 Tours",
+        "thumbnail":  "templates/hotels-travel-tours/design-3/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Goodway Travel",
+        "category":  "hotels-travel-tours"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact"
+                          ],
+        "id":  "portfolios-freelancers-design-1",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Designers",
+        "badge":  "",
+        "style":  "light",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#5a49d6",
+                       "#eeeaff",
+                       "#f4b95f",
+                       "#fbfaff",
+                       "#242238"
+                   ],
+        "oldPrice":  10500,
+        "features":  [
+                         "Selected work",
+                         "About the maker",
+                         "Start a project"
+                     ],
+        "price":  8500,
+        "palettes":  [
+                         [
+                             "#5a49d6",
+                             "#eeeaff",
+                             "#f4b95f",
+                             "#fbfaff",
+                             "#242238"
+                         ],
+                         [
+                             "#267b68",
+                             "#d9eee4",
+                             "#efa86e",
+                             "#f8fbf7",
+                             "#20332b"
+                         ],
+                         [
+                             "#c4566d",
+                             "#fae5e9",
+                             "#dba34a",
+                             "#fff9f7",
+                             "#38262c"
+                         ],
+                         [
+                             "#385b91",
+                             "#e2edf8",
+                             "#e8ae6a",
+                             "#f7faff",
+                             "#202c3b"
+                         ]
+                     ],
+        "tagline":  "A considered experience, made around you.",
+        "previewPath":  "templates/portfolios-freelancers/design-1/index.html",
+        "categoryName":  "Personal Portfolios \u0026 Freelancers",
+        "thumbnail":  "templates/portfolios-freelancers/design-1/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Alex Morgan Studio",
+        "category":  "portfolios-freelancers"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact"
+                          ],
+        "id":  "portfolios-freelancers-design-2",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Freelancers",
+        "badge":  "",
+        "style":  "dark",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#ed6846",
+                       "#241c26",
+                       "#f3c85c",
+                       "#171820",
+                       "#f7f2ee"
+                   ],
+        "oldPrice":  12500,
+        "features":  [
+                         "Selected work",
+                         "About the maker",
+                         "Start a project"
+                     ],
+        "price":  10500,
+        "palettes":  [
+                         [
+                             "#ed6846",
+                             "#241c26",
+                             "#f3c85c",
+                             "#171820",
+                             "#f7f2ee"
+                         ],
+                         [
+                             "#d43d48",
+                             "#2d1a21",
+                             "#ffab72",
+                             "#1b1217",
+                             "#fff5ed"
+                         ],
+                         [
+                             "#b49a3d",
+                             "#23241d",
+                             "#b9d7b5",
+                             "#171a16",
+                             "#f5f4e9"
+                         ],
+                         [
+                             "#56a7a5",
+                             "#172a2c",
+                             "#f5c770",
+                             "#121c1e",
+                             "#eef8f5"
+                         ]
+                     ],
+        "tagline":  "Big ideas, a sharper presence, and a clear next step.",
+        "previewPath":  "templates/portfolios-freelancers/design-2/index.html",
+        "categoryName":  "Personal Portfolios \u0026 Freelancers",
+        "thumbnail":  "templates/portfolios-freelancers/design-2/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Made by Rowan",
+        "category":  "portfolios-freelancers"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact"
+                          ],
+        "id":  "portfolios-freelancers-design-3",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Creators",
+        "badge":  "",
+        "style":  "colorful",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#268d78",
+                       "#eaf1d8",
+                       "#e78372",
+                       "#f5f7ef",
+                       "#26352e"
+                   ],
+        "oldPrice":  9500,
+        "features":  [
+                         "Selected work",
+                         "About the maker",
+                         "Start a project"
+                     ],
+        "price":  7500,
+        "palettes":  [
+                         [
+                             "#268d78",
+                             "#eaf1d8",
+                             "#e78372",
+                             "#f5f7ef",
+                             "#26352e"
+                         ],
+                         [
+                             "#d579a4",
+                             "#fce7f0",
+                             "#8170dc",
+                             "#fff8fb",
+                             "#382b36"
+                         ],
+                         [
+                             "#c38b42",
+                             "#f6e6c9",
+                             "#658e73",
+                             "#fcf8f0",
+                             "#342d22"
+                         ],
+                         [
+                             "#5582cf",
+                             "#e3ecfa",
+                             "#f1aa6d",
+                             "#f8faff",
+                             "#273346"
+                         ]
+                     ],
+        "tagline":  "A little care in every detail, from the first click.",
+        "previewPath":  "templates/portfolios-freelancers/design-3/index.html",
+        "categoryName":  "Personal Portfolios \u0026 Freelancers",
+        "thumbnail":  "templates/portfolios-freelancers/design-3/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Studio Juniper",
+        "category":  "portfolios-freelancers"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact"
+                          ],
+        "id":  "construction-interior-design-1",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Construction",
+        "badge":  "",
+        "style":  "light",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#5a49d6",
+                       "#eeeaff",
+                       "#f4b95f",
+                       "#fbfaff",
+                       "#242238"
+                   ],
+        "oldPrice":  10500,
+        "features":  [
+                         "Project portfolio",
+                         "Our process",
+                         "Request a quote"
+                     ],
+        "price":  8500,
+        "palettes":  [
+                         [
+                             "#5a49d6",
+                             "#eeeaff",
+                             "#f4b95f",
+                             "#fbfaff",
+                             "#242238"
+                         ],
+                         [
+                             "#267b68",
+                             "#d9eee4",
+                             "#efa86e",
+                             "#f8fbf7",
+                             "#20332b"
+                         ],
+                         [
+                             "#c4566d",
+                             "#fae5e9",
+                             "#dba34a",
+                             "#fff9f7",
+                             "#38262c"
+                         ],
+                         [
+                             "#385b91",
+                             "#e2edf8",
+                             "#e8ae6a",
+                             "#f7faff",
+                             "#202c3b"
+                         ]
+                     ],
+        "tagline":  "A considered experience, made around you.",
+        "previewPath":  "templates/construction-interior/design-1/index.html",
+        "categoryName":  "Construction \u0026 Interior Design",
+        "thumbnail":  "templates/construction-interior/design-1/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Form \u0026 Field",
+        "category":  "construction-interior"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact"
+                          ],
+        "id":  "construction-interior-design-2",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Interior design",
+        "badge":  "",
+        "style":  "dark",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#ed6846",
+                       "#241c26",
+                       "#f3c85c",
+                       "#171820",
+                       "#f7f2ee"
+                   ],
+        "oldPrice":  12500,
+        "features":  [
+                         "Project portfolio",
+                         "Our process",
+                         "Request a quote"
+                     ],
+        "price":  10500,
+        "palettes":  [
+                         [
+                             "#ed6846",
+                             "#241c26",
+                             "#f3c85c",
+                             "#171820",
+                             "#f7f2ee"
+                         ],
+                         [
+                             "#d43d48",
+                             "#2d1a21",
+                             "#ffab72",
+                             "#1b1217",
+                             "#fff5ed"
+                         ],
+                         [
+                             "#b49a3d",
+                             "#23241d",
+                             "#b9d7b5",
+                             "#171a16",
+                             "#f5f4e9"
+                         ],
+                         [
+                             "#56a7a5",
+                             "#172a2c",
+                             "#f5c770",
+                             "#121c1e",
+                             "#eef8f5"
+                         ]
+                     ],
+        "tagline":  "Big ideas, a sharper presence, and a clear next step.",
+        "previewPath":  "templates/construction-interior/design-2/index.html",
+        "categoryName":  "Construction \u0026 Interior Design",
+        "thumbnail":  "templates/construction-interior/design-2/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Common Space",
+        "category":  "construction-interior"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact"
+                          ],
+        "id":  "construction-interior-design-3",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Architecture",
+        "badge":  "",
+        "style":  "colorful",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#268d78",
+                       "#eaf1d8",
+                       "#e78372",
+                       "#f5f7ef",
+                       "#26352e"
+                   ],
+        "oldPrice":  9500,
+        "features":  [
+                         "Project portfolio",
+                         "Our process",
+                         "Request a quote"
+                     ],
+        "price":  7500,
+        "palettes":  [
+                         [
+                             "#268d78",
+                             "#eaf1d8",
+                             "#e78372",
+                             "#f5f7ef",
+                             "#26352e"
+                         ],
+                         [
+                             "#d579a4",
+                             "#fce7f0",
+                             "#8170dc",
+                             "#fff8fb",
+                             "#382b36"
+                         ],
+                         [
+                             "#c38b42",
+                             "#f6e6c9",
+                             "#658e73",
+                             "#fcf8f0",
+                             "#342d22"
+                         ],
+                         [
+                             "#5582cf",
+                             "#e3ecfa",
+                             "#f1aa6d",
+                             "#f8faff",
+                             "#273346"
+                         ]
+                     ],
+        "tagline":  "A little care in every detail, from the first click.",
+        "previewPath":  "templates/construction-interior/design-3/index.html",
+        "categoryName":  "Construction \u0026 Interior Design",
+        "thumbnail":  "templates/construction-interior/design-3/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Morrow Interiors",
+        "category":  "construction-interior"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact"
+                          ],
+        "id":  "events-weddings-design-1",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Weddings",
+        "badge":  "",
+        "style":  "light",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#5a49d6",
+                       "#eeeaff",
+                       "#f4b95f",
+                       "#fbfaff",
+                       "#242238"
+                   ],
+        "oldPrice":  10500,
+        "features":  [
+                         "Event gallery",
+                         "Planning services",
+                         "Check your date"
+                     ],
+        "price":  8500,
+        "palettes":  [
+                         [
+                             "#5a49d6",
+                             "#eeeaff",
+                             "#f4b95f",
+                             "#fbfaff",
+                             "#242238"
+                         ],
+                         [
+                             "#267b68",
+                             "#d9eee4",
+                             "#efa86e",
+                             "#f8fbf7",
+                             "#20332b"
+                         ],
+                         [
+                             "#c4566d",
+                             "#fae5e9",
+                             "#dba34a",
+                             "#fff9f7",
+                             "#38262c"
+                         ],
+                         [
+                             "#385b91",
+                             "#e2edf8",
+                             "#e8ae6a",
+                             "#f7faff",
+                             "#202c3b"
+                         ]
+                     ],
+        "tagline":  "A considered experience, made around you.",
+        "previewPath":  "templates/events-weddings/design-1/index.html",
+        "categoryName":  "Event \u0026 Wedding Planners",
+        "thumbnail":  "templates/events-weddings/design-1/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Ever After Studio",
+        "category":  "events-weddings"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact"
+                          ],
+        "id":  "events-weddings-design-2",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Events",
+        "badge":  "",
+        "style":  "dark",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#ed6846",
+                       "#241c26",
+                       "#f3c85c",
+                       "#171820",
+                       "#f7f2ee"
+                   ],
+        "oldPrice":  12500,
+        "features":  [
+                         "Event gallery",
+                         "Planning services",
+                         "Check your date"
+                     ],
+        "price":  10500,
+        "palettes":  [
+                         [
+                             "#ed6846",
+                             "#241c26",
+                             "#f3c85c",
+                             "#171820",
+                             "#f7f2ee"
+                         ],
+                         [
+                             "#d43d48",
+                             "#2d1a21",
+                             "#ffab72",
+                             "#1b1217",
+                             "#fff5ed"
+                         ],
+                         [
+                             "#b49a3d",
+                             "#23241d",
+                             "#b9d7b5",
+                             "#171a16",
+                             "#f5f4e9"
+                         ],
+                         [
+                             "#56a7a5",
+                             "#172a2c",
+                             "#f5c770",
+                             "#121c1e",
+                             "#eef8f5"
+                         ]
+                     ],
+        "tagline":  "Big ideas, a sharper presence, and a clear next step.",
+        "previewPath":  "templates/events-weddings/design-2/index.html",
+        "categoryName":  "Event \u0026 Wedding Planners",
+        "thumbnail":  "templates/events-weddings/design-2/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Gather \u0026 Glow",
+        "category":  "events-weddings"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact"
+                          ],
+        "id":  "events-weddings-design-3",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Florists \u0026 decor",
+        "badge":  "",
+        "style":  "colorful",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#268d78",
+                       "#eaf1d8",
+                       "#e78372",
+                       "#f5f7ef",
+                       "#26352e"
+                   ],
+        "oldPrice":  9500,
+        "features":  [
+                         "Event gallery",
+                         "Planning services",
+                         "Check your date"
+                     ],
+        "price":  7500,
+        "palettes":  [
+                         [
+                             "#268d78",
+                             "#eaf1d8",
+                             "#e78372",
+                             "#f5f7ef",
+                             "#26352e"
+                         ],
+                         [
+                             "#d579a4",
+                             "#fce7f0",
+                             "#8170dc",
+                             "#fff8fb",
+                             "#382b36"
+                         ],
+                         [
+                             "#c38b42",
+                             "#f6e6c9",
+                             "#658e73",
+                             "#fcf8f0",
+                             "#342d22"
+                         ],
+                         [
+                             "#5582cf",
+                             "#e3ecfa",
+                             "#f1aa6d",
+                             "#f8faff",
+                             "#273346"
+                         ]
+                     ],
+        "tagline":  "A little care in every detail, from the first click.",
+        "previewPath":  "templates/events-weddings/design-3/index.html",
+        "categoryName":  "Event \u0026 Wedding Planners",
+        "thumbnail":  "templates/events-weddings/design-3/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Petal \u0026 Promise",
+        "category":  "events-weddings"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact"
+                          ],
+        "id":  "agencies-startups-design-1",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Agencies",
+        "badge":  "",
+        "style":  "light",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#5a49d6",
+                       "#eeeaff",
+                       "#f4b95f",
+                       "#fbfaff",
+                       "#242238"
+                   ],
+        "oldPrice":  10500,
+        "features":  [
+                         "What we do",
+                         "Selected work",
+                         "Start a project"
+                     ],
+        "price":  8500,
+        "palettes":  [
+                         [
+                             "#5a49d6",
+                             "#eeeaff",
+                             "#f4b95f",
+                             "#fbfaff",
+                             "#242238"
+                         ],
+                         [
+                             "#267b68",
+                             "#d9eee4",
+                             "#efa86e",
+                             "#f8fbf7",
+                             "#20332b"
+                         ],
+                         [
+                             "#c4566d",
+                             "#fae5e9",
+                             "#dba34a",
+                             "#fff9f7",
+                             "#38262c"
+                         ],
+                         [
+                             "#385b91",
+                             "#e2edf8",
+                             "#e8ae6a",
+                             "#f7faff",
+                             "#202c3b"
+                         ]
+                     ],
+        "tagline":  "A considered experience, made around you.",
+        "previewPath":  "templates/agencies-startups/design-1/index.html",
+        "categoryName":  "Agencies \u0026 Startups",
+        "thumbnail":  "templates/agencies-startups/design-1/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Northstar Creative",
+        "category":  "agencies-startups"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact"
+                          ],
+        "id":  "agencies-startups-design-2",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "Startups",
+        "badge":  "",
+        "style":  "dark",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#ed6846",
+                       "#241c26",
+                       "#f3c85c",
+                       "#171820",
+                       "#f7f2ee"
+                   ],
+        "oldPrice":  12500,
+        "features":  [
+                         "What we do",
+                         "Selected work",
+                         "Start a project"
+                     ],
+        "price":  10500,
+        "palettes":  [
+                         [
+                             "#ed6846",
+                             "#241c26",
+                             "#f3c85c",
+                             "#171820",
+                             "#f7f2ee"
+                         ],
+                         [
+                             "#d43d48",
+                             "#2d1a21",
+                             "#ffab72",
+                             "#1b1217",
+                             "#fff5ed"
+                         ],
+                         [
+                             "#b49a3d",
+                             "#23241d",
+                             "#b9d7b5",
+                             "#171a16",
+                             "#f5f4e9"
+                         ],
+                         [
+                             "#56a7a5",
+                             "#172a2c",
+                             "#f5c770",
+                             "#121c1e",
+                             "#eef8f5"
+                         ]
+                     ],
+        "tagline":  "Big ideas, a sharper presence, and a clear next step.",
+        "previewPath":  "templates/agencies-startups/design-2/index.html",
+        "categoryName":  "Agencies \u0026 Startups",
+        "thumbnail":  "templates/agencies-startups/design-2/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Daybreak Labs",
+        "category":  "agencies-startups"
+    },
+    {
+        "pagesIncluded":  [
+                              "Home",
+                              "Services",
+                              "About",
+                              "Gallery",
+                              "Contact"
+                          ],
+        "id":  "agencies-startups-design-3",
+        "includes":  [
+                         "Responsive design",
+                         "Source code",
+                         "Free setup help"
+                     ],
+        "subCategory":  "SaaS products",
+        "badge":  "",
+        "style":  "colorful",
+        "paletteNames":  [
+                             "Violet Bloom",
+                             "Quiet Garden",
+                             "Rose Studio",
+                             "Clear Sky"
+                         ],
+        "colors":  [
+                       "#268d78",
+                       "#eaf1d8",
+                       "#e78372",
+                       "#f5f7ef",
+                       "#26352e"
+                   ],
+        "oldPrice":  9500,
+        "features":  [
+                         "What we do",
+                         "Selected work",
+                         "Start a project"
+                     ],
+        "price":  7500,
+        "palettes":  [
+                         [
+                             "#268d78",
+                             "#eaf1d8",
+                             "#e78372",
+                             "#f5f7ef",
+                             "#26352e"
+                         ],
+                         [
+                             "#d579a4",
+                             "#fce7f0",
+                             "#8170dc",
+                             "#fff8fb",
+                             "#382b36"
+                         ],
+                         [
+                             "#c38b42",
+                             "#f6e6c9",
+                             "#658e73",
+                             "#fcf8f0",
+                             "#342d22"
+                         ],
+                         [
+                             "#5582cf",
+                             "#e3ecfa",
+                             "#f1aa6d",
+                             "#f8faff",
+                             "#273346"
+                         ]
+                     ],
+        "tagline":  "A little care in every detail, from the first click.",
+        "previewPath":  "templates/agencies-startups/design-3/index.html",
+        "categoryName":  "Agencies \u0026 Startups",
+        "thumbnail":  "templates/agencies-startups/design-3/images/thumb.svg",
+        "deliveryTime":  "2 to 5 business days",
+        "name":  "Good Signal",
+        "category":  "agencies-startups"
+    }
+]

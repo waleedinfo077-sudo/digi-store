@@ -1,0 +1,282 @@
+[
+    {
+        "subCategories":  [
+                              "Gyms",
+                              "Personal trainers",
+                              "Yoga \u0026 pilates"
+                          ],
+        "count":  3,
+        "color":  "#f16b45",
+        "name":  "Gym \u0026 Fitness",
+        "description":  "Thoughtful website designs for gym \u0026 fitness.",
+        "order":  1,
+        "slug":  "gym-fitness",
+        "icon":  "GF"
+    },
+    {
+        "subCategories":  [
+                              "Family practice",
+                              "Specialists",
+                              "Wellness clinics"
+                          ],
+        "count":  3,
+        "color":  "#49a9a0",
+        "name":  "Doctors \u0026 Clinics",
+        "description":  "Thoughtful website designs for doctors \u0026 clinics.",
+        "order":  2,
+        "slug":  "doctors-clinics",
+        "icon":  "DC"
+    },
+    {
+        "subCategories":  [
+                              "Hospitals",
+                              "Pharmacies",
+                              "Diagnostic centers"
+                          ],
+        "count":  3,
+        "color":  "#4f85d8",
+        "name":  "Hospitals \u0026 Pharmacies",
+        "description":  "Thoughtful website designs for hospitals \u0026 pharmacies.",
+        "order":  3,
+        "slug":  "hospitals-pharmacies",
+        "icon":  "HP"
+    },
+    {
+        "subCategories":  [
+                              "Dental clinics",
+                              "Orthodontics",
+                              "Pediatric dentistry"
+                          ],
+        "count":  3,
+        "color":  "#48a7a5",
+        "name":  "Dentists",
+        "description":  "Thoughtful website designs for dentists.",
+        "order":  4,
+        "slug":  "dentists",
+        "icon":  "DN"
+    },
+    {
+        "subCategories":  [
+                              "Early years",
+                              "Primary schools",
+                              "Learning centers"
+                          ],
+        "count":  3,
+        "color":  "#eeb34f",
+        "name":  "Primary Schools",
+        "description":  "Thoughtful website designs for primary schools.",
+        "order":  5,
+        "slug":  "primary-schools",
+        "icon":  "PS"
+    },
+    {
+        "subCategories":  [
+                              "High schools",
+                              "Academies",
+                              "Test preparation"
+                          ],
+        "count":  3,
+        "color":  "#596cc8",
+        "name":  "High Schools \u0026 Academies",
+        "description":  "Thoughtful website designs for high schools \u0026 academies.",
+        "order":  6,
+        "slug":  "high-schools-academies",
+        "icon":  "HS"
+    },
+    {
+        "subCategories":  [
+                              "Universities",
+                              "Coaching centers",
+                              "Online learning"
+                          ],
+        "count":  3,
+        "color":  "#4a75a6",
+        "name":  "Universities \u0026 Coaching Centers",
+        "description":  "Thoughtful website designs for universities \u0026 coaching centers.",
+        "order":  7,
+        "slug":  "universities-coaching",
+        "icon":  "UC"
+    },
+    {
+        "subCategories":  [
+                              "Clothing",
+                              "Shoes",
+                              "Grocery \u0026 electronics"
+                          ],
+        "count":  3,
+        "color":  "#d579a4",
+        "name":  "Shops \u0026 Retail",
+        "description":  "Thoughtful website designs for shops \u0026 retail.",
+        "order":  8,
+        "slug":  "shops-retail",
+        "icon":  "RT"
+    },
+    {
+        "subCategories":  [
+                              "Fashion",
+                              "Home \u0026 living",
+                              "Beauty \u0026 goods"
+                          ],
+        "count":  3,
+        "color":  "#835de8",
+        "name":  "E-commerce Stores",
+        "description":  "Thoughtful website designs for e-commerce stores.",
+        "order":  9,
+        "slug":  "ecommerce-stores",
+        "icon":  "EC"
+    },
+    {
+        "subCategories":  [
+                              "Car showrooms",
+                              "Auto dealers",
+                              "Car rentals"
+                          ],
+        "count":  3,
+        "color":  "#4e778c",
+        "name":  "Cars \u0026 Showrooms",
+        "description":  "Thoughtful website designs for cars \u0026 showrooms.",
+        "order":  10,
+        "slug":  "cars-showrooms",
+        "icon":  "AU"
+    },
+    {
+        "subCategories":  [
+                              "Residential",
+                              "Commercial",
+                              "Property agents"
+                          ],
+        "count":  3,
+        "color":  "#c28b57",
+        "name":  "Real Estate \u0026 Property Dealers",
+        "description":  "Thoughtful website designs for real estate \u0026 property dealers.",
+        "order":  11,
+        "slug":  "real-estate",
+        "icon":  "RE"
+    },
+    {
+        "subCategories":  [
+                              "Restaurants",
+                              "Cafes",
+                              "Bakeries \u0026 dining"
+                          ],
+        "count":  3,
+        "color":  "#e3764e",
+        "name":  "Restaurants \u0026 Cafes",
+        "description":  "Thoughtful website designs for restaurants \u0026 cafes.",
+        "order":  12,
+        "slug":  "restaurants-cafes",
+        "icon":  "RC"
+    },
+    {
+        "subCategories":  [
+                              "Hair salons",
+                              "Spas",
+                              "Barbers"
+                          ],
+        "count":  3,
+        "color":  "#bb75a2",
+        "name":  "Salons, Spas \u0026 Barbers",
+        "description":  "Thoughtful website designs for salons, spas \u0026 barbers.",
+        "order":  13,
+        "slug":  "salons-spas-barbers",
+        "icon":  "SB"
+    },
+    {
+        "subCategories":  [
+                              "Law firms",
+                              "Consultants",
+                              "Advisory"
+                          ],
+        "count":  3,
+        "color":  "#7b6f5a",
+        "name":  "Law Firms \u0026 Consultants",
+        "description":  "Thoughtful website designs for law firms \u0026 consultants.",
+        "order":  14,
+        "slug":  "law-firms-consultants",
+        "icon":  "LC"
+    },
+    {
+        "subCategories":  [
+                              "Photographers",
+                              "Studios",
+                              "Creative production"
+                          ],
+        "count":  3,
+        "color":  "#6b78bc",
+        "name":  "Photography \u0026 Studios",
+        "description":  "Thoughtful website designs for photography \u0026 studios.",
+        "order":  15,
+        "slug":  "photography-studios",
+        "icon":  "PH"
+    },
+    {
+        "subCategories":  [
+                              "Hotels",
+                              "Travel agencies",
+                              "Local tours"
+                          ],
+        "count":  3,
+        "color":  "#4e9c9a",
+        "name":  "Hotels, Travel \u0026 Tours",
+        "description":  "Thoughtful website designs for hotels, travel \u0026 tours.",
+        "order":  16,
+        "slug":  "hotels-travel-tours",
+        "icon":  "TT"
+    },
+    {
+        "subCategories":  [
+                              "Designers",
+                              "Freelancers",
+                              "Creators"
+                          ],
+        "count":  3,
+        "color":  "#896bdd",
+        "name":  "Personal Portfolios \u0026 Freelancers",
+        "description":  "Thoughtful website designs for personal portfolios \u0026 freelancers.",
+        "order":  17,
+        "slug":  "portfolios-freelancers",
+        "icon":  "PF"
+    },
+    {
+        "subCategories":  [
+                              "Construction",
+                              "Interior design",
+                              "Architecture"
+                          ],
+        "count":  3,
+        "color":  "#c18b50",
+        "name":  "Construction \u0026 Interior Design",
+        "description":  "Thoughtful website designs for construction \u0026 interior design.",
+        "order":  18,
+        "slug":  "construction-interior",
+        "icon":  "CI"
+    },
+    {
+        "subCategories":  [
+                              "Weddings",
+                              "Events",
+                              "Florists \u0026 decor"
+                          ],
+        "count":  3,
+        "color":  "#d9799b",
+        "name":  "Event \u0026 Wedding Planners",
+        "description":  "Thoughtful website designs for event \u0026 wedding planners.",
+        "order":  19,
+        "slug":  "events-weddings",
+        "icon":  "EW"
+    },
+    {
+        "subCategories":  [
+                              "Agencies",
+                              "Startups",
+                              "SaaS products"
+                          ],
+        "count":  3,
+        "color":  "#765ce5",
+        "name":  "Agencies \u0026 Startups",
+        "description":  "Thoughtful website designs for agencies \u0026 startups.",
+        "order":  20,
+        "slug":  "agencies-startups",
+        "icon":  "AS"
+    }
+]

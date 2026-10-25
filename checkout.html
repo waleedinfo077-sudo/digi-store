@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Place an order for a ready-made website design from Digi Store.">
+  <meta property="og:title" content="Place Your Order — Digi Store"><meta property="og:description" content="Tell us about your project and order a website design."><meta property="og:type" content="website"><meta property="og:image" content="./assets/images/og-image.svg">
+  <title>Place Your Order — Digi Store</title><link rel="icon" href="./assets/images/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./assets/css/main.css"><link rel="stylesheet" href="./assets/css/animations.css">
+  <script defer src="./config.js"></script><script defer src="./assets/js/app.js"></script><script defer src="./assets/js/checkout.js"></script>
+</head><body><a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header"><a class="brand" href="./index.html"><img src="./assets/images/logo.svg" alt="" width="38" height="38"><span>Digi Store</span></a><a class="text-link" href="./templates.html">← Keep exploring</a></header>
+<main class="checkout-page shell" id="main"><div class="checkout-intro"><span class="eyebrow">One step closer</span><h1>Let’s make it<br><span>yours.</span></h1><p>Share a few details and Digi Store will be in touch to plan the next step.</p></div>
+  <div id="checkout-alert" class="form-alert" role="alert" hidden></div>
+  <div class="checkout-layout"><form id="order-form" class="order-form" novalidate>
+    <input type="hidden" name="access_key" id="web3-access-key"><input type="hidden" name="subject" id="email-subject">
+    <div class="form-section"><div class="form-section-heading"><span>01</span><div><h2>Your details</h2><p>How should we get in touch?</p></div></div>
+      <div class="form-grid"><label>Full name <span>*</span><input name="customerName" autocomplete="name" required minlength="2" placeholder="Your name"><small class="field-error"></small></label>
+        <label>Phone / WhatsApp <span>*</span><input name="phone" type="tel" autocomplete="tel" required placeholder="+92 300 0000000"><small class="field-error"></small></label>
+        <label>Email address <span>*</span><input name="email" type="email" autocomplete="email" required placeholder="you@example.com"><small class="field-error"></small></label>
+        <label>Business name<input name="businessName" autocomplete="organization" placeholder="Your business or idea"><small class="field-error"></small></label></div>
+    </div>
+    <div class="form-section"><div class="form-section-heading"><span>02</span><div><h2>Make it yours</h2><p>Tell us what you have in mind.</p></div></div>
+      <label>Preferred color theme<select id="theme-choice" name="theme"><option value="Original">Original design palette</option></select></label>
+      <label>Anything else? <span class="optional-label">Optional</span><textarea name="notes" rows="4" maxlength="1200" placeholder="A few words about your project, preferred colors, or questions…"></textarea></label>
+    </div>
+    <p class="form-privacy">Your details are only used to discuss this website order.</p>
+    <button class="button button-wide submit-order" id="submit-order" type="submit">Send my order request <span>↗</span></button>
+    <p id="form-status" class="form-status" aria-live="polite"></p>
+  </form>
+  <aside class="order-summary"><span class="eyebrow">Your selected design</span><div id="summary-thumb" class="summary-thumb"><span>✳</span></div><h2 id="summary-name">Loading selection…</h2><p id="summary-tagline"></p><div class="summary-category" id="summary-category"></div><div class="summary-price"><span>One-time design price</span><strong id="summary-price"></strong></div><div class="summary-note">Manual payment arrangements. No payment is taken on this page.</div><a id="change-design" class="text-link" href="./templates.html">← Choose another design</a></aside>
+  </div>
+</main><footer class="site-footer shell compact-footer"><div class="footer-bottom"><span>© <span data-year></span> Digi Store</span><span>Made with care for your next idea.</span></div></footer></body></html>

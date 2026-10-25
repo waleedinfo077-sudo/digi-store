@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en"><head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Explore a Digi Store website design live, choose a color palette and place an order.">
+  <meta property="og:title" content="Live Website Preview — Digi Store"><meta property="og:description" content="Explore website designs live, choose a palette and place an order."><meta property="og:type" content="website"><meta property="og:image" content="./assets/images/og-image.svg">
+  <title>Live Website Preview — Digi Store</title><link rel="icon" href="./assets/images/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./assets/css/main.css"><link rel="stylesheet" href="./assets/css/animations.css">
+  <script defer src="./config.js"></script><script defer src="./assets/js/app.js"></script><script defer src="./assets/js/preview.js"></script>
+</head><body class="preview-body"><header class="preview-toolbar">
+  <a class="brand toolbar-brand" href="./templates.html" aria-label="Back to Digi Store"><img src="./assets/images/logo.svg" alt="" width="34" height="34"><span>Digi Store</span></a>
+  <div class="preview-design-title"><b id="preview-name">Loading design…</b><span id="preview-category"></span></div>
+  <div class="device-controls" role="group" aria-label="Preview device size"><button data-device="desktop" class="active" aria-label="Desktop preview">▰</button><button data-device="tablet" aria-label="Tablet preview">▯</button><button data-device="mobile" aria-label="Mobile preview">▯</button></div>
+  <div class="palette-controls" id="palette-controls" aria-label="Change design colors"></div>
+  <button id="fullscreen-button" class="toolbar-icon" aria-label="Fullscreen preview">⛶</button><a id="new-tab-link" class="toolbar-icon" target="_blank" rel="noopener" aria-label="Open website in new tab" href="#">↗</a><span class="sr-only" id="preview-status" aria-live="polite"></span>
+</header>
+<main class="preview-main"><div class="preview-stage"><div class="frame-shell"><div id="frame-loading" class="frame-loading"><span class="loader-mark">✳</span><b>Getting your preview ready</b><span>One little moment…</span></div><iframe id="site-frame" title="Interactive website design preview" allow="fullscreen" loading="eager"></iframe></div></div>
+  <aside class="preview-info" id="preview-info"><button class="info-toggle" id="info-toggle" aria-expanded="true"><span>Design details</span><span>⌄</span></button>
+    <div class="info-content"><div class="info-heading"><span class="eyebrow">A closer look</span><h1 id="info-name">Website design</h1><p id="info-tagline"></p></div>
+      <div class="price-line"><span>Design price</span><strong id="info-price"></strong></div>
+      <div class="info-block"><h2>Made for</h2><p id="info-category"></p></div>
+      <div class="info-block"><h2>What’s included</h2><ul id="includes-list"></ul></div>
+      <div class="info-block"><h2>Pages included</h2><div class="detail-chips" id="pages-list"></div></div>
+      <div class="info-block"><h2>Features</h2><div class="detail-chips" id="features-list"></div></div>
+      <div class="info-block"><h2>Delivery time</h2><p id="delivery-time"></p></div>
+      <div class="info-block"><h2>More in this category</h2><div class="other-designs" id="other-designs"></div></div>
+    </div>
+    <div class="preview-order"><a class="button button-wide" id="order-button" href="./checkout.html">Order this website <span>↗</span></a><a class="text-link" href="./templates.html">← Back to designs</a></div>
+  </aside>
+</main></body></html>

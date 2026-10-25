@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Discover, preview and order polished websites for your business at Digi Store.">
+  <meta property="og:title" content="Digi Store — Websites made to fit your next idea">
+  <meta property="og:description" content="Browse ready-made websites and explore every design live.">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="./assets/images/og-image.svg">
+  <title>Digi Store — Websites made to fit your next idea</title>
+  <link rel="icon" href="./assets/images/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./assets/css/main.css">
+  <link rel="stylesheet" href="./assets/css/animations.css">
+  <script defer src="./config.js"></script>
+  <script defer src="./assets/js/app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <a class="brand" href="./index.html" aria-label="Digi Store home">
+      <img src="./assets/images/logo.svg" alt="" width="38" height="38"><span>Digi Store</span>
+    </a>
+    <button class="menu-toggle" aria-label="Open navigation" aria-expanded="false">☰</button>
+    <nav class="main-nav" aria-label="Main navigation">
+      <a href="./templates.html">Explore websites</a><a href="#how">How it works</a>
+      <button class="icon-button" data-theme-toggle aria-label="Toggle dark mode">◐</button>
+      <a class="button button-small" href="./templates.html">Browse designs <span aria-hidden="true">↗</span></a>
+    </nav>
+  </header>
+  <main id="main">
+    <section class="hero shell">
+      <div class="hero-copy reveal">
+        <span class="eyebrow"><span class="eyebrow-dot"></span> A better website starts here</span>
+        <h1>Your next website.<br><span>Already imagined.</span></h1>
+        <p>Explore beautiful, ready-to-make websites. Preview every detail before you order.</p>
+        <form class="hero-search" action="./templates.html" method="get" role="search">
+          <label class="sr-only" for="hero-search">Search designs or categories</label>
+          <span aria-hidden="true">⌕</span><input id="hero-search" name="q" placeholder="Try “restaurant” or “portfolio”">
+          <button class="button" type="submit">Find a design <span aria-hidden="true">→</span></button>
+        </form>
+        <div class="hero-actions"><a class="text-link" href="./templates.html">Browse all websites <span>↗</span></a><a class="text-link muted-link" href="#how">How it works <span>↓</span></a></div>
+        <div class="hero-proof"><div class="avatar-stack" aria-hidden="true"><i>✦</i><i>◈</i><i>✳</i></div><span><strong>Made for your next big thing</strong><br>Distinctive designs. No guesswork.</span></div>
+      </div>
+      <div class="hero-art reveal" aria-label="Preview of a colorful business website">
+        <div class="art-orbit orbit-one"></div><div class="art-orbit orbit-two"></div>
+        <div class="art-spark spark-one">✳</div><div class="art-spark spark-two">✦</div>
+        <div class="browser-card">
+          <div class="browser-bar"><span></span><span></span><span></span><i>your-next-site.com</i></div>
+          <div class="browser-preview"><div class="preview-nav"><b>studio.</b><span>Work&nbsp;&nbsp; About&nbsp;&nbsp; Contact</span><em>Let's talk ↗</em></div>
+            <div class="preview-content"><small>INDEPENDENT CREATIVE STUDIO</small><h2>Ideas into<br><i>impact.</i></h2><p>Make room for the extraordinary.</p><span class="preview-cta">Explore our work ↗</span></div>
+            <div class="preview-shape shape-a"></div><div class="preview-shape shape-b"></div><div class="preview-caption">A little preview of what's possible <b>↗</b></div>
+          </div>
+        </div>
+        <div class="floating-note note-price"><span>✦</span><div><b>Made to make an impression</b><small>Live preview, right here</small></div></div>
+        <div class="floating-note note-count"><b>60+</b><small>ready-to-explore<br>designs</small></div>
+      </div>
+    </section>
+    <section class="trust-strip shell"><span>One good design can change everything</span><i>✳</i><span>Explore. Preview. Make it yours.</span><i>✳</i><span>Thoughtfully made for real businesses</span></section>
+    <section class="section shell" id="categories">
+      <div class="section-heading reveal"><div><span class="eyebrow">Find your kind of website</span><h2>Made for what<br>you <span>do next.</span></h2></div><a class="text-link" href="./templates.html">All categories <span>↗</span></a></div>
+      <div class="category-grid" id="home-categories"><div class="skeleton category-skeleton"></div><div class="skeleton category-skeleton"></div><div class="skeleton category-skeleton"></div><div class="skeleton category-skeleton"></div></div>
+    </section>
+    <section class="featured-section">
+      <div class="shell section">
+        <div class="section-heading reveal"><div><span class="eyebrow">A few good places to start</span><h2>Currently catching<br><span>our eye.</span></h2></div><a class="text-link" href="./templates.html">See every design <span>↗</span></a></div>
+        <div class="template-grid featured-grid" id="featured-designs"><div class="skeleton card-skeleton"></div><div class="skeleton card-skeleton"></div><div class="skeleton card-skeleton"></div></div>
+      </div>
+    </section>
+    <section class="section shell how-section" id="how">
+      <div class="section-heading reveal"><div><span class="eyebrow">No surprises, just good design</span><h2>Three steps to<br><span>your next site.</span></h2></div></div>
+      <div class="steps-grid">
+        <article class="step-card reveal"><span class="step-number">01</span><div class="step-icon">⌕</div><h3>Choose your look</h3><p>Find a design that feels like your business.</p><span class="step-line"></span></article>
+        <article class="step-card reveal"><span class="step-number">02</span><div class="step-icon">◉</div><h3>Explore it live</h3><p>Click around, change colors, see every screen.</p><span class="step-line"></span></article>
+        <article class="step-card reveal"><span class="step-number">03</span><div class="step-icon">↗</div><h3>Make it yours</h3><p>Place an order, then we’ll make it yours.</p><span class="step-line"></span></article>
+      </div>
+    </section>
+    <section class="stats-band"><div class="shell stats-grid"><div><b data-counter="60">0</b><span>ready-to-explore designs</span></div><div><b data-counter="20">0</b><span>business categories</span></div><div><b data-counter="3">0</b><span>steps to get started</span></div></div></section>
+    <section class="cta-section shell reveal"><div class="cta-art">✳</div><div><span class="eyebrow">Your idea looks good from here</span><h2>Find the one that<br><span>feels like you.</span></h2></div><a class="button button-light" href="./templates.html">Explore the collection <span>↗</span></a></section>
+  </main>
+  <footer class="site-footer shell"><div class="footer-top"><a class="brand" href="./index.html"><img src="./assets/images/logo.svg" alt="" width="38" height="38"><span>Digi Store</span></a><p>Good websites for what comes next.</p><a class="text-link" href="./templates.html">Explore designs ↗</a></div><div class="footer-bottom"><span>© <span data-year></span> Digi Store. Thoughtfully made.</span><span>Design your next chapter.</span><a href="./404.html">Help & support</a></div></footer>
+</body>
+</html>
