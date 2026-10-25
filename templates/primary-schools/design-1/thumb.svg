@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Little Acorn website design">
+  <defs><linearGradient id="shade" x1="0" y1="0" x2="0" y2="1"><stop offset=".2" stop-color="#111" stop-opacity=".02"/><stop offset="1" stop-color="#111" stop-opacity=".78"/></linearGradient></defs>
+  <image href="../../../assets/images/categories/primary-schools.webp" width="800" height="500" preserveAspectRatio="xMidYMid slice"/>
+  <rect width="800" height="500" fill="#5a49d6" opacity=".13"/>
+  <rect width="800" height="500" fill="url(#shade)"/>
+  <rect x="38" y="34" width="124" height="31" rx="15" fill="#eeeaff" opacity=".94"/>
+  <text x="57" y="55" fill="#5a49d6" font-family="Arial,sans-serif" font-size="13" font-weight="700">Primary Schools</text>
+  <text x="48" y="408" fill="#fff" font-family="Arial,sans-serif" font-size="39" font-weight="700">Little Acorn</text>
+  <text x="51" y="445" fill="#fff" font-family="Arial,sans-serif" font-size="16" opacity=".9">A thoughtful website, ready to explore</text>
+</svg>
