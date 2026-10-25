@@ -27,11 +27,12 @@ assets/
   images/favicon.svg
 templates/<category-slug>/design-<1-3>/
   index.html                Self-contained, interactive demo
-  images/thumb.svg          Local design-card art
-  images/hero-art.svg       Local demo illustration
+  thumb.svg                 Local design-card art used by catalog cards
+  hero-art.svg              Local demo illustration used by the live preview
+  images/                    Original source copies of the SVG artwork
 ```
 
-Expand the template branch above as follows; **each** listed design folder contains `index.html` and `images/{thumb.svg,hero-art.svg}`:
+Expand the template branch above as follows; each listed design folder contains the three published files `index.html`, `thumb.svg`, and `hero-art.svg`, as well as local source copies under `images/`:
 
 ```text
 templates/
@@ -110,7 +111,7 @@ For local testing, serve this folder with any simple static-file server so the b
 
 1. Copy an existing `templates/<category-slug>/design-1/` folder and give it a new design folder name.
 2. Keep the demo self-contained. Use relative asset paths and include the CSS variables `--primary`, `--secondary`, `--accent`, `--bg`, and `--text`. To support live palette changes, keep the theme `postMessage` handler from an existing demo.
-3. Add local artwork in the copied `images/` folder.
+3. Add local artwork in the copied `images/` folder and copy the preview art to the design folder root as `thumb.svg` and `hero-art.svg`.
 4. Add one complete record to `templates.json`, with a unique `id`, category slug, name, price, `thumbnail`, and `previewPath` pointing to the copied files. Add the slug to `categories.json` if this is a new category, including its icon, description, display order, color, and sub-categories.
 5. Check the new card, direct preview, palette controls, and checkout link. No store JavaScript changes or build step are needed.
 6. To change a price, edit that design's `price` (and optional `oldPrice`) in `templates.json`.

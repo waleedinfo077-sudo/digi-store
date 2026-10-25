@@ -69,7 +69,7 @@
         "tagline":  "A considered experience, made around you.",
         "previewPath":  "templates/gym-fitness/design-1/index.html",
         "categoryName":  "Gym \u0026 Fitness",
-        "thumbnail":  "templates/gym-fitness/design-1/images/thumb.svg",
+        "thumbnail":  "templates/gym-fitness/design-1/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Pulse Theory",
         "category":  "gym-fitness"
@@ -144,7 +144,7 @@
         "tagline":  "Big ideas, a sharper presence, and a clear next step.",
         "previewPath":  "templates/gym-fitness/design-2/index.html",
         "categoryName":  "Gym \u0026 Fitness",
-        "thumbnail":  "templates/gym-fitness/design-2/images/thumb.svg",
+        "thumbnail":  "templates/gym-fitness/design-2/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Northform",
         "category":  "gym-fitness"
@@ -219,7 +219,7 @@
         "tagline":  "A little care in every detail, from the first click.",
         "previewPath":  "templates/gym-fitness/design-3/index.html",
         "categoryName":  "Gym \u0026 Fitness",
-        "thumbnail":  "templates/gym-fitness/design-3/images/thumb.svg",
+        "thumbnail":  "templates/gym-fitness/design-3/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Good Move",
         "category":  "gym-fitness"
@@ -294,7 +294,7 @@
         "tagline":  "A considered experience, made around you.",
         "previewPath":  "templates/doctors-clinics/design-1/index.html",
         "categoryName":  "Doctors \u0026 Clinics",
-        "thumbnail":  "templates/doctors-clinics/design-1/images/thumb.svg",
+        "thumbnail":  "templates/doctors-clinics/design-1/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Kindred Care",
         "category":  "doctors-clinics"
@@ -369,7 +369,7 @@
         "tagline":  "Big ideas, a sharper presence, and a clear next step.",
         "previewPath":  "templates/doctors-clinics/design-2/index.html",
         "categoryName":  "Doctors \u0026 Clinics",
-        "thumbnail":  "templates/doctors-clinics/design-2/images/thumb.svg",
+        "thumbnail":  "templates/doctors-clinics/design-2/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Clarity Health",
         "category":  "doctors-clinics"
@@ -444,7 +444,7 @@
         "tagline":  "A little care in every detail, from the first click.",
         "previewPath":  "templates/doctors-clinics/design-3/index.html",
         "categoryName":  "Doctors \u0026 Clinics",
-        "thumbnail":  "templates/doctors-clinics/design-3/images/thumb.svg",
+        "thumbnail":  "templates/doctors-clinics/design-3/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Softwell Clinic",
         "category":  "doctors-clinics"
@@ -519,7 +519,7 @@
         "tagline":  "A considered experience, made around you.",
         "previewPath":  "templates/hospitals-pharmacies/design-1/index.html",
         "categoryName":  "Hospitals \u0026 Pharmacies",
-        "thumbnail":  "templates/hospitals-pharmacies/design-1/images/thumb.svg",
+        "thumbnail":  "templates/hospitals-pharmacies/design-1/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Harbor Health",
         "category":  "hospitals-pharmacies"
@@ -594,7 +594,7 @@
         "tagline":  "Big ideas, a sharper presence, and a clear next step.",
         "previewPath":  "templates/hospitals-pharmacies/design-2/index.html",
         "categoryName":  "Hospitals \u0026 Pharmacies",
-        "thumbnail":  "templates/hospitals-pharmacies/design-2/images/thumb.svg",
+        "thumbnail":  "templates/hospitals-pharmacies/design-2/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Cedar Medical",
         "category":  "hospitals-pharmacies"
@@ -669,7 +669,7 @@
         "tagline":  "A little care in every detail, from the first click.",
         "previewPath":  "templates/hospitals-pharmacies/design-3/index.html",
         "categoryName":  "Hospitals \u0026 Pharmacies",
-        "thumbnail":  "templates/hospitals-pharmacies/design-3/images/thumb.svg",
+        "thumbnail":  "templates/hospitals-pharmacies/design-3/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Daywell Pharmacy",
         "category":  "hospitals-pharmacies"
@@ -744,7 +744,7 @@
         "tagline":  "A considered experience, made around you.",
         "previewPath":  "templates/dentists/design-1/index.html",
         "categoryName":  "Dentists",
-        "thumbnail":  "templates/dentists/design-1/images/thumb.svg",
+        "thumbnail":  "templates/dentists/design-1/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Brightline Dental",
         "category":  "dentists"
@@ -819,7 +819,7 @@
         "tagline":  "Big ideas, a sharper presence, and a clear next step.",
         "previewPath":  "templates/dentists/design-2/index.html",
         "categoryName":  "Dentists",
-        "thumbnail":  "templates/dentists/design-2/images/thumb.svg",
+        "thumbnail":  "templates/dentists/design-2/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Good Day Dental",
         "category":  "dentists"
@@ -894,7 +894,7 @@
         "tagline":  "A little care in every detail, from the first click.",
         "previewPath":  "templates/dentists/design-3/index.html",
         "categoryName":  "Dentists",
-        "thumbnail":  "templates/dentists/design-3/images/thumb.svg",
+        "thumbnail":  "templates/dentists/design-3/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Little Pearl",
         "category":  "dentists"
@@ -969,7 +969,7 @@
         "tagline":  "A considered experience, made around you.",
         "previewPath":  "templates/primary-schools/design-1/index.html",
         "categoryName":  "Primary Schools",
-        "thumbnail":  "templates/primary-schools/design-1/images/thumb.svg",
+        "thumbnail":  "templates/primary-schools/design-1/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Little Acorn",
         "category":  "primary-schools"
@@ -1044,7 +1044,7 @@
         "tagline":  "Big ideas, a sharper presence, and a clear next step.",
         "previewPath":  "templates/primary-schools/design-2/index.html",
         "categoryName":  "Primary Schools",
-        "thumbnail":  "templates/primary-schools/design-2/images/thumb.svg",
+        "thumbnail":  "templates/primary-schools/design-2/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Wonder Years",
         "category":  "primary-schools"
@@ -1119,7 +1119,7 @@
         "tagline":  "A little care in every detail, from the first click.",
         "previewPath":  "templates/primary-schools/design-3/index.html",
         "categoryName":  "Primary Schools",
-        "thumbnail":  "templates/primary-schools/design-3/images/thumb.svg",
+        "thumbnail":  "templates/primary-schools/design-3/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Puddle Jumpers",
         "category":  "primary-schools"
@@ -1194,7 +1194,7 @@
         "tagline":  "A considered experience, made around you.",
         "previewPath":  "templates/high-schools-academies/design-1/index.html",
         "categoryName":  "High Schools \u0026 Academies",
-        "thumbnail":  "templates/high-schools-academies/design-1/images/thumb.svg",
+        "thumbnail":  "templates/high-schools-academies/design-1/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Summit Academy",
         "category":  "high-schools-academies"
@@ -1269,7 +1269,7 @@
         "tagline":  "Big ideas, a sharper presence, and a clear next step.",
         "previewPath":  "templates/high-schools-academies/design-2/index.html",
         "categoryName":  "High Schools \u0026 Academies",
-        "thumbnail":  "templates/high-schools-academies/design-2/images/thumb.svg",
+        "thumbnail":  "templates/high-schools-academies/design-2/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Next Chapter",
         "category":  "high-schools-academies"
@@ -1344,7 +1344,7 @@
         "tagline":  "A little care in every detail, from the first click.",
         "previewPath":  "templates/high-schools-academies/design-3/index.html",
         "categoryName":  "High Schools \u0026 Academies",
-        "thumbnail":  "templates/high-schools-academies/design-3/images/thumb.svg",
+        "thumbnail":  "templates/high-schools-academies/design-3/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Brightbridge School",
         "category":  "high-schools-academies"
@@ -1419,7 +1419,7 @@
         "tagline":  "A considered experience, made around you.",
         "previewPath":  "templates/universities-coaching/design-1/index.html",
         "categoryName":  "Universities \u0026 Coaching Centers",
-        "thumbnail":  "templates/universities-coaching/design-1/images/thumb.svg",
+        "thumbnail":  "templates/universities-coaching/design-1/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Northstar Learning",
         "category":  "universities-coaching"
@@ -1494,7 +1494,7 @@
         "tagline":  "Big ideas, a sharper presence, and a clear next step.",
         "previewPath":  "templates/universities-coaching/design-2/index.html",
         "categoryName":  "Universities \u0026 Coaching Centers",
-        "thumbnail":  "templates/universities-coaching/design-2/images/thumb.svg",
+        "thumbnail":  "templates/universities-coaching/design-2/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Open Campus",
         "category":  "universities-coaching"
@@ -1569,7 +1569,7 @@
         "tagline":  "A little care in every detail, from the first click.",
         "previewPath":  "templates/universities-coaching/design-3/index.html",
         "categoryName":  "Universities \u0026 Coaching Centers",
-        "thumbnail":  "templates/universities-coaching/design-3/images/thumb.svg",
+        "thumbnail":  "templates/universities-coaching/design-3/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Common Ground",
         "category":  "universities-coaching"
@@ -1645,7 +1645,7 @@
         "tagline":  "A considered experience, made around you.",
         "previewPath":  "templates/shops-retail/design-1/index.html",
         "categoryName":  "Shops \u0026 Retail",
-        "thumbnail":  "templates/shops-retail/design-1/images/thumb.svg",
+        "thumbnail":  "templates/shops-retail/design-1/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Daily Form",
         "category":  "shops-retail"
@@ -1721,7 +1721,7 @@
         "tagline":  "Big ideas, a sharper presence, and a clear next step.",
         "previewPath":  "templates/shops-retail/design-2/index.html",
         "categoryName":  "Shops \u0026 Retail",
-        "thumbnail":  "templates/shops-retail/design-2/images/thumb.svg",
+        "thumbnail":  "templates/shops-retail/design-2/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Studio Market",
         "category":  "shops-retail"
@@ -1797,7 +1797,7 @@
         "tagline":  "A little care in every detail, from the first click.",
         "previewPath":  "templates/shops-retail/design-3/index.html",
         "categoryName":  "Shops \u0026 Retail",
-        "thumbnail":  "templates/shops-retail/design-3/images/thumb.svg",
+        "thumbnail":  "templates/shops-retail/design-3/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Sunday Supply",
         "category":  "shops-retail"
@@ -1873,7 +1873,7 @@
         "tagline":  "A considered experience, made around you.",
         "previewPath":  "templates/ecommerce-stores/design-1/index.html",
         "categoryName":  "E-commerce Stores",
-        "thumbnail":  "templates/ecommerce-stores/design-1/images/thumb.svg",
+        "thumbnail":  "templates/ecommerce-stores/design-1/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Forma Goods",
         "category":  "ecommerce-stores"
@@ -1949,7 +1949,7 @@
         "tagline":  "Big ideas, a sharper presence, and a clear next step.",
         "previewPath":  "templates/ecommerce-stores/design-2/index.html",
         "categoryName":  "E-commerce Stores",
-        "thumbnail":  "templates/ecommerce-stores/design-2/images/thumb.svg",
+        "thumbnail":  "templates/ecommerce-stores/design-2/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Maison Edit",
         "category":  "ecommerce-stores"
@@ -2025,7 +2025,7 @@
         "tagline":  "A little care in every detail, from the first click.",
         "previewPath":  "templates/ecommerce-stores/design-3/index.html",
         "categoryName":  "E-commerce Stores",
-        "thumbnail":  "templates/ecommerce-stores/design-3/images/thumb.svg",
+        "thumbnail":  "templates/ecommerce-stores/design-3/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Soft Supply",
         "category":  "ecommerce-stores"
@@ -2100,7 +2100,7 @@
         "tagline":  "A considered experience, made around you.",
         "previewPath":  "templates/cars-showrooms/design-1/index.html",
         "categoryName":  "Cars \u0026 Showrooms",
-        "thumbnail":  "templates/cars-showrooms/design-1/images/thumb.svg",
+        "thumbnail":  "templates/cars-showrooms/design-1/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Monarch Motors",
         "category":  "cars-showrooms"
@@ -2175,7 +2175,7 @@
         "tagline":  "Big ideas, a sharper presence, and a clear next step.",
         "previewPath":  "templates/cars-showrooms/design-2/index.html",
         "categoryName":  "Cars \u0026 Showrooms",
-        "thumbnail":  "templates/cars-showrooms/design-2/images/thumb.svg",
+        "thumbnail":  "templates/cars-showrooms/design-2/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Apex Auto",
         "category":  "cars-showrooms"
@@ -2250,7 +2250,7 @@
         "tagline":  "A little care in every detail, from the first click.",
         "previewPath":  "templates/cars-showrooms/design-3/index.html",
         "categoryName":  "Cars \u0026 Showrooms",
-        "thumbnail":  "templates/cars-showrooms/design-3/images/thumb.svg",
+        "thumbnail":  "templates/cars-showrooms/design-3/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Sunday Drive",
         "category":  "cars-showrooms"
@@ -2325,7 +2325,7 @@
         "tagline":  "A considered experience, made around you.",
         "previewPath":  "templates/real-estate/design-1/index.html",
         "categoryName":  "Real Estate \u0026 Property Dealers",
-        "thumbnail":  "templates/real-estate/design-1/images/thumb.svg",
+        "thumbnail":  "templates/real-estate/design-1/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Fieldstone Living",
         "category":  "real-estate"
@@ -2400,7 +2400,7 @@
         "tagline":  "Big ideas, a sharper presence, and a clear next step.",
         "previewPath":  "templates/real-estate/design-2/index.html",
         "categoryName":  "Real Estate \u0026 Property Dealers",
-        "thumbnail":  "templates/real-estate/design-2/images/thumb.svg",
+        "thumbnail":  "templates/real-estate/design-2/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "The New Address",
         "category":  "real-estate"
@@ -2475,7 +2475,7 @@
         "tagline":  "A little care in every detail, from the first click.",
         "previewPath":  "templates/real-estate/design-3/index.html",
         "categoryName":  "Real Estate \u0026 Property Dealers",
-        "thumbnail":  "templates/real-estate/design-3/images/thumb.svg",
+        "thumbnail":  "templates/real-estate/design-3/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Nest \u0026 Co.",
         "category":  "real-estate"
@@ -2550,7 +2550,7 @@
         "tagline":  "A considered experience, made around you.",
         "previewPath":  "templates/restaurants-cafes/design-1/index.html",
         "categoryName":  "Restaurants \u0026 Cafes",
-        "thumbnail":  "templates/restaurants-cafes/design-1/images/thumb.svg",
+        "thumbnail":  "templates/restaurants-cafes/design-1/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Olive \u0026 Ember",
         "category":  "restaurants-cafes"
@@ -2625,7 +2625,7 @@
         "tagline":  "Big ideas, a sharper presence, and a clear next step.",
         "previewPath":  "templates/restaurants-cafes/design-2/index.html",
         "categoryName":  "Restaurants \u0026 Cafes",
-        "thumbnail":  "templates/restaurants-cafes/design-2/images/thumb.svg",
+        "thumbnail":  "templates/restaurants-cafes/design-2/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Table No. 8",
         "category":  "restaurants-cafes"
@@ -2700,7 +2700,7 @@
         "tagline":  "A little care in every detail, from the first click.",
         "previewPath":  "templates/restaurants-cafes/design-3/index.html",
         "categoryName":  "Restaurants \u0026 Cafes",
-        "thumbnail":  "templates/restaurants-cafes/design-3/images/thumb.svg",
+        "thumbnail":  "templates/restaurants-cafes/design-3/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Sunday Brunch",
         "category":  "restaurants-cafes"
@@ -2775,7 +2775,7 @@
         "tagline":  "A considered experience, made around you.",
         "previewPath":  "templates/salons-spas-barbers/design-1/index.html",
         "categoryName":  "Salons, Spas \u0026 Barbers",
-        "thumbnail":  "templates/salons-spas-barbers/design-1/images/thumb.svg",
+        "thumbnail":  "templates/salons-spas-barbers/design-1/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Luna House",
         "category":  "salons-spas-barbers"
@@ -2850,7 +2850,7 @@
         "tagline":  "Big ideas, a sharper presence, and a clear next step.",
         "previewPath":  "templates/salons-spas-barbers/design-2/index.html",
         "categoryName":  "Salons, Spas \u0026 Barbers",
-        "thumbnail":  "templates/salons-spas-barbers/design-2/images/thumb.svg",
+        "thumbnail":  "templates/salons-spas-barbers/design-2/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Soft Ritual",
         "category":  "salons-spas-barbers"
@@ -2925,7 +2925,7 @@
         "tagline":  "A little care in every detail, from the first click.",
         "previewPath":  "templates/salons-spas-barbers/design-3/index.html",
         "categoryName":  "Salons, Spas \u0026 Barbers",
-        "thumbnail":  "templates/salons-spas-barbers/design-3/images/thumb.svg",
+        "thumbnail":  "templates/salons-spas-barbers/design-3/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "The Good Cut",
         "category":  "salons-spas-barbers"
@@ -3000,7 +3000,7 @@
         "tagline":  "A considered experience, made around you.",
         "previewPath":  "templates/law-firms-consultants/design-1/index.html",
         "categoryName":  "Law Firms \u0026 Consultants",
-        "thumbnail":  "templates/law-firms-consultants/design-1/images/thumb.svg",
+        "thumbnail":  "templates/law-firms-consultants/design-1/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "West \u0026 Vale",
         "category":  "law-firms-consultants"
@@ -3075,7 +3075,7 @@
         "tagline":  "Big ideas, a sharper presence, and a clear next step.",
         "previewPath":  "templates/law-firms-consultants/design-2/index.html",
         "categoryName":  "Law Firms \u0026 Consultants",
-        "thumbnail":  "templates/law-firms-consultants/design-2/images/thumb.svg",
+        "thumbnail":  "templates/law-firms-consultants/design-2/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Civic Counsel",
         "category":  "law-firms-consultants"
@@ -3150,7 +3150,7 @@
         "tagline":  "A little care in every detail, from the first click.",
         "previewPath":  "templates/law-firms-consultants/design-3/index.html",
         "categoryName":  "Law Firms \u0026 Consultants",
-        "thumbnail":  "templates/law-firms-consultants/design-3/images/thumb.svg",
+        "thumbnail":  "templates/law-firms-consultants/design-3/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Clearpoint Advisory",
         "category":  "law-firms-consultants"
@@ -3225,7 +3225,7 @@
         "tagline":  "A considered experience, made around you.",
         "previewPath":  "templates/photography-studios/design-1/index.html",
         "categoryName":  "Photography \u0026 Studios",
-        "thumbnail":  "templates/photography-studios/design-1/images/thumb.svg",
+        "thumbnail":  "templates/photography-studios/design-1/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Stillframe Studio",
         "category":  "photography-studios"
@@ -3300,7 +3300,7 @@
         "tagline":  "Big ideas, a sharper presence, and a clear next step.",
         "previewPath":  "templates/photography-studios/design-2/index.html",
         "categoryName":  "Photography \u0026 Studios",
-        "thumbnail":  "templates/photography-studios/design-2/images/thumb.svg",
+        "thumbnail":  "templates/photography-studios/design-2/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Golden Hour Co.",
         "category":  "photography-studios"
@@ -3375,7 +3375,7 @@
         "tagline":  "A little care in every detail, from the first click.",
         "previewPath":  "templates/photography-studios/design-3/index.html",
         "categoryName":  "Photography \u0026 Studios",
-        "thumbnail":  "templates/photography-studios/design-3/images/thumb.svg",
+        "thumbnail":  "templates/photography-studios/design-3/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Soft Focus",
         "category":  "photography-studios"
@@ -3450,7 +3450,7 @@
         "tagline":  "A considered experience, made around you.",
         "previewPath":  "templates/hotels-travel-tours/design-1/index.html",
         "categoryName":  "Hotels, Travel \u0026 Tours",
-        "thumbnail":  "templates/hotels-travel-tours/design-1/images/thumb.svg",
+        "thumbnail":  "templates/hotels-travel-tours/design-1/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Elsewhere Stay",
         "category":  "hotels-travel-tours"
@@ -3525,7 +3525,7 @@
         "tagline":  "Big ideas, a sharper presence, and a clear next step.",
         "previewPath":  "templates/hotels-travel-tours/design-2/index.html",
         "categoryName":  "Hotels, Travel \u0026 Tours",
-        "thumbnail":  "templates/hotels-travel-tours/design-2/images/thumb.svg",
+        "thumbnail":  "templates/hotels-travel-tours/design-2/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Palm \u0026 Pine",
         "category":  "hotels-travel-tours"
@@ -3600,7 +3600,7 @@
         "tagline":  "A little care in every detail, from the first click.",
         "previewPath":  "templates/hotels-travel-tours/design-3/index.html",
         "categoryName":  "Hotels, Travel \u0026 Tours",
-        "thumbnail":  "templates/hotels-travel-tours/design-3/images/thumb.svg",
+        "thumbnail":  "templates/hotels-travel-tours/design-3/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Goodway Travel",
         "category":  "hotels-travel-tours"
@@ -3675,7 +3675,7 @@
         "tagline":  "A considered experience, made around you.",
         "previewPath":  "templates/portfolios-freelancers/design-1/index.html",
         "categoryName":  "Personal Portfolios \u0026 Freelancers",
-        "thumbnail":  "templates/portfolios-freelancers/design-1/images/thumb.svg",
+        "thumbnail":  "templates/portfolios-freelancers/design-1/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Alex Morgan Studio",
         "category":  "portfolios-freelancers"
@@ -3750,7 +3750,7 @@
         "tagline":  "Big ideas, a sharper presence, and a clear next step.",
         "previewPath":  "templates/portfolios-freelancers/design-2/index.html",
         "categoryName":  "Personal Portfolios \u0026 Freelancers",
-        "thumbnail":  "templates/portfolios-freelancers/design-2/images/thumb.svg",
+        "thumbnail":  "templates/portfolios-freelancers/design-2/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Made by Rowan",
         "category":  "portfolios-freelancers"
@@ -3825,7 +3825,7 @@
         "tagline":  "A little care in every detail, from the first click.",
         "previewPath":  "templates/portfolios-freelancers/design-3/index.html",
         "categoryName":  "Personal Portfolios \u0026 Freelancers",
-        "thumbnail":  "templates/portfolios-freelancers/design-3/images/thumb.svg",
+        "thumbnail":  "templates/portfolios-freelancers/design-3/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Studio Juniper",
         "category":  "portfolios-freelancers"
@@ -3900,7 +3900,7 @@
         "tagline":  "A considered experience, made around you.",
         "previewPath":  "templates/construction-interior/design-1/index.html",
         "categoryName":  "Construction \u0026 Interior Design",
-        "thumbnail":  "templates/construction-interior/design-1/images/thumb.svg",
+        "thumbnail":  "templates/construction-interior/design-1/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Form \u0026 Field",
         "category":  "construction-interior"
@@ -3975,7 +3975,7 @@
         "tagline":  "Big ideas, a sharper presence, and a clear next step.",
         "previewPath":  "templates/construction-interior/design-2/index.html",
         "categoryName":  "Construction \u0026 Interior Design",
-        "thumbnail":  "templates/construction-interior/design-2/images/thumb.svg",
+        "thumbnail":  "templates/construction-interior/design-2/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Common Space",
         "category":  "construction-interior"
@@ -4050,7 +4050,7 @@
         "tagline":  "A little care in every detail, from the first click.",
         "previewPath":  "templates/construction-interior/design-3/index.html",
         "categoryName":  "Construction \u0026 Interior Design",
-        "thumbnail":  "templates/construction-interior/design-3/images/thumb.svg",
+        "thumbnail":  "templates/construction-interior/design-3/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Morrow Interiors",
         "category":  "construction-interior"
@@ -4125,7 +4125,7 @@
         "tagline":  "A considered experience, made around you.",
         "previewPath":  "templates/events-weddings/design-1/index.html",
         "categoryName":  "Event \u0026 Wedding Planners",
-        "thumbnail":  "templates/events-weddings/design-1/images/thumb.svg",
+        "thumbnail":  "templates/events-weddings/design-1/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Ever After Studio",
         "category":  "events-weddings"
@@ -4200,7 +4200,7 @@
         "tagline":  "Big ideas, a sharper presence, and a clear next step.",
         "previewPath":  "templates/events-weddings/design-2/index.html",
         "categoryName":  "Event \u0026 Wedding Planners",
-        "thumbnail":  "templates/events-weddings/design-2/images/thumb.svg",
+        "thumbnail":  "templates/events-weddings/design-2/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Gather \u0026 Glow",
         "category":  "events-weddings"
@@ -4275,7 +4275,7 @@
         "tagline":  "A little care in every detail, from the first click.",
         "previewPath":  "templates/events-weddings/design-3/index.html",
         "categoryName":  "Event \u0026 Wedding Planners",
-        "thumbnail":  "templates/events-weddings/design-3/images/thumb.svg",
+        "thumbnail":  "templates/events-weddings/design-3/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Petal \u0026 Promise",
         "category":  "events-weddings"
@@ -4350,7 +4350,7 @@
         "tagline":  "A considered experience, made around you.",
         "previewPath":  "templates/agencies-startups/design-1/index.html",
         "categoryName":  "Agencies \u0026 Startups",
-        "thumbnail":  "templates/agencies-startups/design-1/images/thumb.svg",
+        "thumbnail":  "templates/agencies-startups/design-1/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Northstar Creative",
         "category":  "agencies-startups"
@@ -4425,7 +4425,7 @@
         "tagline":  "Big ideas, a sharper presence, and a clear next step.",
         "previewPath":  "templates/agencies-startups/design-2/index.html",
         "categoryName":  "Agencies \u0026 Startups",
-        "thumbnail":  "templates/agencies-startups/design-2/images/thumb.svg",
+        "thumbnail":  "templates/agencies-startups/design-2/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Daybreak Labs",
         "category":  "agencies-startups"
@@ -4500,7 +4500,7 @@
         "tagline":  "A little care in every detail, from the first click.",
         "previewPath":  "templates/agencies-startups/design-3/index.html",
         "categoryName":  "Agencies \u0026 Startups",
-        "thumbnail":  "templates/agencies-startups/design-3/images/thumb.svg",
+        "thumbnail":  "templates/agencies-startups/design-3/thumb.svg",
         "deliveryTime":  "2 to 5 business days",
         "name":  "Good Signal",
         "category":  "agencies-startups"
